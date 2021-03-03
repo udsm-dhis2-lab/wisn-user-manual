@@ -23,6 +23,7 @@ module.exports = {
         type: "category",
         label: "Ad-Hoc Allocations",
         items: [
+          "ad-hoc/ad-hoc",
           "ad-hoc/approved-cadres",
           "ad-hoc/facilities",
           "ad-hoc/initial-optimization",
