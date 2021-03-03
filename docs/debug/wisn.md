@@ -3,6 +3,6 @@ id: wisn
 title: WISN Data
 ---
 
-## Managing Cadre Average
+## Managing WISN Data
 
-To view cadre average click the Cadre Average menu on the vertical navigation, and specify from which hierarchy (National, Regional, District or facility) you want to view the Cadre Data.
+This displays the WISN Summary for the whole year. It shows the HRH status for the whole country.
