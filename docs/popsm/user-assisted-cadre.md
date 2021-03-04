@@ -3,7 +3,7 @@ id: user-assisted-cadre
 title: User Assisted Cadre (UAC)
 ---
 
-## 	User Assisted Cadre (UAC)
+
 Here the system displays all UAC and their supply constraints set (if any).The user will be able to enter UAC permits manually. This will first be deducted from the PORALG permit budget set then the remaining amount will be used for FAC.
 
 1. Aggregated.
