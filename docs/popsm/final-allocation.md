@@ -3,8 +3,6 @@ id: final-allocation
 title: Final Allocation
 ---
 
-## Final Allocation
-
 The system will display a summary of FAC and UAC allocation permits as per LGA. Apply added constraints which affects previously allocated FAC permits .
 
 1. Overview
