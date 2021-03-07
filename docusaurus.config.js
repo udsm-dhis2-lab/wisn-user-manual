@@ -21,12 +21,7 @@ module.exports = {
           activeBasePath: "docs",
           label: "Manual",
           position: "left",
-        },
-        {
-          href: "https://github.com/hisptz/wisn-user-manual/",
-          label: "GitHub",
-          position: "right",
-        },
+        }
       ],
     },
     footer: {
