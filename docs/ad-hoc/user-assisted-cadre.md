@@ -2,7 +2,7 @@
 id: user-assisted-cadre
 title: User Assisted Cadre (UAC)
 ---
-## User Assisted Cadres
+
 Here the system displays all UAC and their supply constraints set(if any).The user will be able to enter UAC permits manually.
 
 ### Aggregated

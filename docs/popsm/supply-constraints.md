@@ -1,6 +1,6 @@
 ---
 id: supply-constraints
-title: Supply Constraints
+title: Supply Constraints by cadre
 ---
 
 ## Supply constraints by Cadre
