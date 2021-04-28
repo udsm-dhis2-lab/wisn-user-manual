@@ -5,12 +5,20 @@ title: Final Allocation
 
 The system will display a summary of FAC and UAC allocation permits as per LGA. And it is in this process users can  apply constraints which affect previously allocated FAC permits in specific LGA or even national ones .
 
+![img alt](/img/fa.png)
+
 ### Overview
 This page Contains the List of User assisted Cadres (UAC) and Fully automated Cadre (FAC) in LGA basis, where by system allocations are default assignments before applying final constraints and custom allocations are new assignments after applying final constraints.
 
+![img alt](/img/fa2.png)
+
 The view button in the custom allocation column provides a room for users to see all permits assigned on that particular LGA  whether it is FAC or UAC.
 
+![img alt](/img/fa3.png)
+
 There is also a Show cadre view button which gives summary of all cadre which have been assigned with new permits generally without specifying they permits belongs to which LGA.
+
+![img alt](/img/fa4.png)
 
 ### Constraints
 Final constraints are of different scenarios nationally and LGA based. For LGA users can set cap on amount by LGA, cap on amount per cadre by LGA and cap on supply cadre per LGA. Add constraint button will allow the user to choose between National or LAGA and then set the specifics.

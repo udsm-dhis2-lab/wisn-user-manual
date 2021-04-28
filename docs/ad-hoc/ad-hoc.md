@@ -3,4 +3,5 @@ id: ad-hoc
 title: Introduction
 ---
 
-In Ad-Hoc PORALG based on the situation without considering the Budget put by POPSM
+With regards to business operation of permits allocation, Ad-Hoc Allocation in this system is being conducted by POLARG.
+

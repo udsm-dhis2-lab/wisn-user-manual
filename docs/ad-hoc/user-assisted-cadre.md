@@ -3,12 +3,7 @@ id: user-assisted-cadre
 title: User Assisted Cadre (UAC)
 ---
 
-Here the system displays all UAC and their supply constraints set(if any).The user will be able to enter UAC permits manually.
+Since user already stated permits for User assisted cadre in approved cadre stage, then here user will be shown the allocation of those permits in specific LGA as per Patient volume number. 
 
-### Aggregated
-To set a permit in LGA there must be zero existing and it must not exceed the Supply constraint that was specified.
+However users can reassign the permit by clicking the reassign button and the list of LGA arranged in ascending order of patient volume number will be prompted for selection.
 
-### LGA- Level
-The system will allocate the entered permits to LGA with high patient volume..LGA can also be re-assigned manually. The system will summarize UAC allocation per cadre per LGA.
-### Summary
-This will combine the List of LGA per Cadre selected .
