@@ -25,9 +25,17 @@ Once the selection of geographical level has been made, pressing the compare but
 ![img alt](/img/compare2.png)
 
 The summary of facility types, HMIS data and Population will be summed for all selected org units for comparison. E.g the data below is a summation of data from the Kigoma and Kilimanjaro region.
-
+![img alt](/img/comparetable.png)
 Compare functionality also results to map showing only selected org units, same with graph and table. However on the table, only one org unit will be displayed and the user will be able to select the other units from the drop down list.  
 
+![img alt](/img/comparemap.png)
+
+![img alt](/img/comparechart.png)
+
+![img alt](/img/comparetable.png)
+
 Finally what user can do on the homepage is to download the analysis data in picture for the case of graphs and map but in XLS or CSV for the case of table data
+
+![img alt](/img/download.png)
 
 Users should first choose format type between CSV or XLS and if the user wants alos graphs to be downloaded, then include graph checkbox should be ticked then press download files as seen in the figure below.
