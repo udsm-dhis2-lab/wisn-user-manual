@@ -22,8 +22,14 @@ Once you select number of facility (user is free to select more than one), there
 
 Once finish the exercise of selecting facilities to be added and upgraded then, user will be able to see the summary of number of facilities  before pressing the confirmation button on the bottom right
 
+![img alt](/img/newfacility5.png)
+
 
 Then once confirmed the list of all LGA involved in the process will be displayed showing number of new facilities, upgraded facilities,  total HRH need and total annual budget cost. Then to make effect of those changes, user should press save changes button which automatically triggers the analytics.
 
+![img alt](/img/newfacility6.png)
+
+
 Through view functionality, users can also view where the HRH need comes from and budget by navigating to the action button and selecting the view.
 
+![img alt](/img/newfacility6.png)
