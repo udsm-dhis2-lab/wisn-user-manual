@@ -3,4 +3,10 @@ id: initial-optimization
 title: Initial Optimization 
 ---
 
-The PRI calculated from the new and upgraded facility is displayed for all cadres by facilities. Apply FAC Permits allocation on PRIs limited by budget entered during allocation and supply constraints by Cadre. The allocated permits used budget and remaining budget will be indicated. The cadre with high PRI will be on the top of the List. The list can be downloaded into csv. Also to see the number(List) that will be Allocated according to the Budget click the button apply constrain.
+Initial optimization process allows users to apply allocation permits to all Full automated cadre as per Priority Ranking index but limited with budget set and maximum supply if available for specific cadre. So user will only need to see the list and press the apply constraint button
+
+Once the apply constraint button is hit, cadres of selection will be highlighted in blue colors and the user can filter and view only the assigned list by pressing the PRI filter.
+
+New assignment choice will display the user with only facility cadres which has been assigned with permits. 
+
+On the top right corner of the list, the budget spent and remained will be shown. Also information of monthly salaries for all FAC will be displayed when clicking the salaries button.
