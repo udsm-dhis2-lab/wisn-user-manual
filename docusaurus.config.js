@@ -1,12 +1,12 @@
 module.exports = {
   title: "WISN + POA",
   tagline: "WISN + POA user guide manual",
-  url: "https://hisptz.github.io/wisn-user-manual/",
+  url: "https://udsm-dhis2-project.github.io/wisn-user-manual/",
   baseUrl: "/wisn-user-manual/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "hisptz",
+  organizationName: "udsm-dhis2-project",
   projectName: "wisn-user-manual",
   themeConfig: {
     navbar: {
@@ -21,7 +21,7 @@ module.exports = {
           activeBasePath: "docs",
           label: "Manual",
           position: "left",
-        }
+        },
       ],
     },
     footer: {
@@ -35,7 +35,8 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/hisptz/wisn-user-manual/edit/main/",
+          editUrl:
+            "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
