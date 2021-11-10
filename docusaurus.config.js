@@ -1,7 +1,7 @@
 module.exports = {
   title: "WISN + POA",
   tagline: "WISN + POA user guide manual",
-  url: "https://udsm-dhis2-project.github.io/wisn-user-manual/",
+  url: "https://udsm-dhis2-project.github.io",
   baseUrl: "/wisn-user-manual/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
