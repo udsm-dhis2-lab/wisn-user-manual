@@ -3,7 +3,6 @@ module.exports = {
   tagline: "WISN + POA user guide manual",
   url: "https://udsm-dhis2-project.github.io",
   baseUrl: "/wisn-user-manual/",
-  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
