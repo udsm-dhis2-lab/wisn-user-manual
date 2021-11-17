@@ -1,5 +1,5 @@
 ---
-id: LGA Redistribution Introduction
+id: lga-redistribution-introduction
 title: LGA Redistribution Introduction
 ---
 

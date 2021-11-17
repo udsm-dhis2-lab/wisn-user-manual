@@ -1,5 +1,5 @@
 ---
-id: New & Upgraded_Facility
+id: new-upgraded-facility
 title: New & Upgraded_Facility
 ---
 
