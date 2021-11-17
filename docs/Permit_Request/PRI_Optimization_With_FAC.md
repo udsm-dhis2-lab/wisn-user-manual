@@ -1,5 +1,5 @@
 ---
-id: pri-optimization-with-full-automated-cadres
+id: pri-optimization-with-fac
 title: PRI Optimization with Full Automated Cadres (FAC)
 ---
 

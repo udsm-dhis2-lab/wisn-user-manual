@@ -1,7 +1,8 @@
 ---
-id: Recommended Redistribution
+id: recommended-redistribution
 title: Recommended Redistribution
 ---
+
 At this stage, the user is able to trigger the redistribution process which is an automatic one whereby the selected surplus cadres (either verified which is a default one or optimal) from the previous step are redistributed/allocated to a facility with deficit by considering the shortest geographical distance.
 
 ![img alt](/img/rec_redistr1.png)
