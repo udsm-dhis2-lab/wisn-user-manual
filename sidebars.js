@@ -68,12 +68,12 @@ module.exports = {
         type: 'category',
         label: 'LGA-Redistribution',
         items: [
-          'LGA-Redistribution/lga-redistribution-introduction',
-          'LGA-Redistribution/lga-redistribution-home',
-          'LGA-Redistribution/surplus-identification',
-          'LGA-Redistribution/lga-recommended-redistribution',
-          'LGA-Redistribution/lga-customization-and-confirmation',
-          'LGA-Redistribution/lga-verification',
+          'LGA_Redistribution/lga-redistribution-introduction',
+          'LGA_Redistribution/lga-redistribution-home',
+          'LGA_Redistribution/surplus-identification',
+          'LGA_Redistribution/lga-recommended-redistribution',
+          'LGA_Redistribution/lga-customization-and-confirmation',
+          'LGA_Redistribution/lga-verification',
         ],
       },
       {
