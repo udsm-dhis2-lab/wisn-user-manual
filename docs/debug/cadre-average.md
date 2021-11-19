@@ -13,6 +13,6 @@ To view cadre average, users must click the “Cadre Average” button in the me
 ![img alt](/img/cadre2.png)
   Viewing cadre average
 
-![img alt](/img/cadre3.png)
+![img alt](/img/cadre2.png)
    Cadre data
 
