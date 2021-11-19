@@ -26,14 +26,17 @@ Comment Window
 The surplus overview table shows the optimal surplus and verified surplus. Optimal surplus is a default one from WISN calculation as per existing HRH and calculated need while verified are manually assigned by the user based on real availability to be redistributed in the higher organization unit
 
 ![img alt](/img/LGA_Verification5.png)
+
 Window to Edit Available Surplus
 
 LGA users will need to edit the verified surplus accordingly for regional users to know the number of cadres to redistribute across the region. The regional users would conduct a similar process after surplus has been verified by the LGAs and are expected to verify and edit the number accordingly for national users. This enables a smooth process redistribution process up to the national level to redistribute HCWs across the country. Summary of the optimal surplus and verified surplus is displayed at the next tab named available redistribution
 
 ![img alt](/img/LGA_Verification6.png)
+
 Display of Optimal and Verified Surplus
 
 Going to the next step of redistribution, the default surplus will always be the verified ones, however users can toggle the process in this verification stage by selecting either optimal or verified to be used for redistribution.
 
 ![img alt](/img/LGA_Verification7.png)
+
 Optimal/Verified for Redistribution.

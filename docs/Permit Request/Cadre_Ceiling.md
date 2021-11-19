@@ -14,4 +14,5 @@ Refers to the high-supply and high-volume cadres and users are provided with a r
 Refers to the low-volume and low-supply of cadres and the users are required to manually interact with the system before an answer is provided
 
 ![img alt](/img/cadre_ceiling.png)
+
 Cadre Ceiling

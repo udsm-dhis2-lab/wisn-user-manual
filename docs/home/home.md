@@ -25,7 +25,9 @@ Once the selection of geographical level has been made, pressing the compare but
 ![img alt](/img/compare2.png)
 
 The summary of facility types, HMIS data and Population will be summed for all selected org units for comparison. E.g the data below is a summation of data from the Kigoma and Kilimanjaro region.
+
 ![img alt](/img/comparetable.png)
+
 Compare functionality also results to map showing only selected org units, same with graph and table. However on the table, only one org unit will be displayed and the user will be able to select the other units from the drop down list.  
 
 ![img alt](/img/comparemap.png)
