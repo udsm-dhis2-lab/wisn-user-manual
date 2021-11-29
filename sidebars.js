@@ -88,20 +88,22 @@ module.exports = {
           'Permit_Request/prioritized-allocation',
         ],
       },
-        {
-          type: 'category',
-          label: 'LGA_Permit_Request',
-          items: [
-            'LGA_Permit_Request/Enter_Budget_Allocation',
-            'LGA_Permit_Request/Cadre_Ceiling',
-            'LGA_Permit_Request/New_And_UpgradedFacility',
-            'LGA_Permit_Request/PRI_Optimization_with_FAC',
-            'LGA_Permit_Request/User_Assisted_Cadre',
-            'LGA_Permit_Request/Priotized_Allocation',
-            'LGA_Permit_Request/Permit_Overview',
-            'LGA_Permit_Request/home'
-          ],
+
+      {
+        type: 'category',
+        label: 'LGA_Permit_Request',
+        items: [
+          'LGA_Permit_Request/Enter_Budget_Allocation',
+          'LGA_Permit_Request/Cadre_Ceiling',
+          'LGA_Permit_Request/New_And_UpgradedFacility',
+          'LGA_Permit_Request/PRI_Optimization_with_FAC',
+          'LGA_Permit_Request/User_Assisted_Cadre',
+          'LGA_Permit_Request/Priotized_Allocation',
+          'LGA_Permit_Request/Permit_Overview',
+          'LGA_Permit_Request/home'
+        ],
       },
+
     ],
-  },
+  }
 }
