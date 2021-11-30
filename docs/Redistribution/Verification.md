@@ -3,7 +3,7 @@ id: verification
 title: Verification
 ---
 
-This stage enables the verification of surplus staff from the regions to the national user to ensure it takes the appropriate number of redistributed staff to the next step.
+This stage enables the verification of surplus staff from the LGA to the national user to ensure it takes the appropriate number of redistributed staff to the next step.
 
 ![img alt](/img/verification1.png)
 

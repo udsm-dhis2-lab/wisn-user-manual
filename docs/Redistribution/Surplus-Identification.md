@@ -3,7 +3,7 @@ id: surplus-identification
 title: Surplus Identification
 ---
 
-The aim of this section is for the National and Regional User to be able to identify the Facility Level Surplus, Facility level Shortage and the net number for each cadre.
+The aim of this section is for the National,Regional and LGA User to be able to identify the Facility Level Surplus, Facility level Shortage and the net number for each cadre.
 ![img alt](/img/s_identification1.png)
 
          Surplus Identification

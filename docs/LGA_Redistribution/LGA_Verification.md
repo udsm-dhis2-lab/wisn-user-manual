@@ -3,7 +3,7 @@ id: lga-verification
 title: LGA Verification
 ---
 
-This stage enables the verification of surplus staff from the regions to the regional user to ensure it takes the appropriate number of redistributed staff to the next step.
+This stage enables the verification of surplus staff from the regions to the LGA user to ensure it takes the appropriate number of redistributed staff to the next step.
 
 ![img alt](/img/LGA_Verification1.png)
 Verification
