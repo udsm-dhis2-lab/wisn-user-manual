@@ -10,7 +10,7 @@ Upon login, every user will take his/her journey towards execution and completio
              Figure 1: WISN + POA landing page
 
 
-The map on the landing page (represented in Figures 1 and 2) currently shows the net shortage in each region as a default set, which is calculated by comparing the overall need with the existing number of staff. This net shortage can also be calculated by subtracting the surplus from the deficit. However user can switch the map representation by also selecting surplus or existing data which are all color coded. Clicking on the map, the user can view the data summary of specific geographical locations. Facilities are represented by dots and the map allows the user to zoom in and out to focus on the facility and its exact location.
+The map on the landing page (represented in Figures 1 and 2) currently shows the net shortage in each LGA as a default set, which is calculated by comparing the overall need with the existing number of staff. This net shortage can also be calculated by subtracting the surplus from the deficit. However user can switch the map representation by also selecting surplus or existing data which are all color coded. Clicking on the map, the user can view the data summary of specific geographical locations. Facilities are represented by dots and the map allows the user to zoom in and out to focus on the facility and its exact location.
 
 ![img alt](/img/LGA_home2.png)
 
