@@ -93,17 +93,16 @@ module.exports = {
         type: 'category',
         label: 'LGA_Permit_Request',
         items: [
-          'LGA_Permit_Request/Enter_Budget_Allocation',
-          'LGA_Permit_Request/Cadre_Ceiling',
-          'LGA_Permit_Request/New_And_UpgradedFacility',
-          'LGA_Permit_Request/PRI_Optimization_with_FAC',
-          'LGA_Permit_Request/User_Assisted_Cadre',
-          'LGA_Permit_Request/Priotized_Allocation',
-          'LGA_Permit_Request/Permit_Overview',
-          'LGA_Permit_Request/home'
+          'LGA_Permit_Request/enter-budget-allocation-lga',
+          'LGA_Permit_Request/cadre-ceiling-lga',
+          'LGA_Permit_Request/lga-new-upgraded-facility',
+          'LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres',
+          'LGA_Permit_Request/lga-user-assisted-cadre',
+          'LGA_Permit_Request/lga-prioritized-allocation',
+          'LGA_Permit_Request/permit-overview-lga',
+          'LGA_Permit_Request/home-lga',
         ],
       },
-
     ],
-  }
+  },
 }
