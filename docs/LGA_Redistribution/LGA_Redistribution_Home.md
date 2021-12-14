@@ -7,4 +7,4 @@ This acts as the starting page for the Redistribution Process for the User. LGA 
 
 ![img alt](/img/LGA_Redistribution1.png)
 
-Redistribution Home Page
+         Redistribution Home Page
