@@ -45,7 +45,7 @@ module.exports = {
       {
         type: 'category',
         label: 'User Module',
-        items: ['users/users'],
+        items: ['users/users','users/users account'],
       },
       {
         type: 'category',
