@@ -1,5 +1,5 @@
 ---
-id: users account
+id: users-account
 title: User Account
 ---
 ##### User Password
