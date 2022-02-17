@@ -103,6 +103,14 @@ module.exports = {
           'LGA_Permit_Request/home-lga',
         ],
       },
+      {
+        type: 'category',
+        label: 'period',
+        items: [
+          'period/home_period',
+ 
+        ],
+      },
     ],
   },
 }
