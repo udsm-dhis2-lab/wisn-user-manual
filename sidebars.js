@@ -111,6 +111,21 @@ module.exports = {
  
         ],
       },
+      {
+        type: 'category',
+        label: 'facility_user',
+        items: [
+          'facility_user/home_facility_user',
+          'facility_user/user_budget_ceiling',
+          'facility_user/user_cadre_ceiling',
+          'facility_user/user_pri_for_FAC_ceiling',
+          'facility_user/user_specialist_pri',
+          'facility_user/user_non_specialist_pri',
+          'facility_user/user_uac',
+ 
+        ],
+      },
+      
     ],
   },
 }
