@@ -125,7 +125,20 @@ module.exports = {
  
         ],
       },
-      
+      {
+        type: 'category',
+        label: 'moh',
+        items: [
+          'home/home-moh',
+          'permit_allocation/automated-pri-moh',
+          'permit_allocation/available-permit-moh',
+          'permit_allocationr/final-decision-moh',
+          'permit_allocation/non-specialist-pri-moh',
+          'permit_allocation/permit-allocation-moh-home',
+          'permit_allocation/specialist-pri-moh',
+          'permit_allocation/uac-moh',
+        ],
+      },     
     ],
   },
 }
