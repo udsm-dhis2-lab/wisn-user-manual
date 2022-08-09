@@ -29,4 +29,3 @@ If users enter permit requests that cause the annual budget to exceed, they will
 
   ![img alt](/img/user_non_specialist_pri_fac4.png)
    Figure 31: Pop-up showing user issued UAC permit requests that exceeded budget
-
