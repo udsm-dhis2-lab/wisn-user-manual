@@ -127,7 +127,7 @@ module.exports = {
       },
       {
         type: 'category',
-        label: 'moh',
+        label: 'moh-central-user',
         items: [
           'home/home-moh',
           'permit_allocation/automated-pri-moh',
@@ -138,7 +138,22 @@ module.exports = {
           'permit_allocation/specialist-pri-moh',
           'permit_allocation/uac-moh',
         ],
-      },     
+      },
+      {
+        type: 'category',
+        label: 'moh-facility-user',
+        items: [
+          'facility_user_moh/home/home_facility_user_moh',
+          'facility_user_moh/permit_requests-moh-facillity/permit_request_home',
+          'facility_user_moh/permit_requests-moh-facillity/user_budget_ceiling_moh',
+          'facility_user_moh/permit_requests-moh-facillity/user_cadre_ceiling_moh',
+          'facility_user_moh/permit_requests-moh-facillity/user_pri_for_FAC_ceiling_moh',
+          'facility_user_moh/permit_requests-moh-facillity/user_specialist_pri_moh',
+          'facility_user_moh/permit_requests-moh-facillity/user_non_specialist_pri_moh',
+          'facility_user_moh/permit_requests-moh-facillity/user_uac_moh',
+          'facility_user_moh/permit_requests-moh-facillity/final-decision-moh',
+        ],
+      },    
     ],
   },
 }

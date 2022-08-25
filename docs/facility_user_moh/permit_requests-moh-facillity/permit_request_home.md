@@ -1,5 +1,5 @@
 ---
-id: user_permit_request_home
+id: permit_request_home
 title: User permit request home
 ---
 
