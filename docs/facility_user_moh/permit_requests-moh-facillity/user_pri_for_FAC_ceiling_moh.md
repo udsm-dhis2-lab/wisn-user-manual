@@ -1,5 +1,5 @@
 ---
-id: user_pri_for_FAC_ceiling_moh
+id: user-pri-for-FAC-ceiling-moh
 title: User Automated PRI for Full Automated Cadres (FAC)
 ---
 
@@ -9,4 +9,4 @@ The selected cadres for requests allocation will be determined by the PRI, budge
 
 ![img alt](/img/automated-pri-moh-fac.png)
 
-   Figure 1: List of cadres assignment arranged based on PRI
+Figure 1: List of cadres assignment arranged based on PRI

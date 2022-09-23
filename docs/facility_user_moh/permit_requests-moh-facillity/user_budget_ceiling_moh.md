@@ -1,5 +1,5 @@
 ---
-id: user_budget_ceiling_moh
+id: user-budget-ceiling-moh
 title: user budget ceiling
 ---
 
@@ -7,4 +7,4 @@ In this part of the system, the Facility user will determine the overall budget 
 
 ![img alt](/img/budget-ceiling-moh.png)
 
-   Figure 1: Budget Ceiling
+Figure 1: Budget Ceiling

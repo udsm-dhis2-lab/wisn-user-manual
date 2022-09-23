@@ -45,7 +45,7 @@ module.exports = {
       {
         type: 'category',
         label: 'User Module',
-        items: ['users/users','users/user-account'],
+        items: ['users/users', 'users/user-account'],
       },
       {
         type: 'category',
@@ -106,10 +106,7 @@ module.exports = {
       {
         type: 'category',
         label: 'period',
-        items: [
-          'period/home_period',
- 
-        ],
+        items: ['period/home_period'],
       },
       {
         type: 'category',
@@ -122,38 +119,37 @@ module.exports = {
           'facility_user/user_specialist_pri',
           'facility_user/user_non_specialist_pri',
           'facility_user/user_uac',
- 
         ],
       },
       {
         type: 'category',
         label: 'moh-central-user',
         items: [
-          'home/home-moh',
-          'permit_allocation/automated-pri-moh',
-          'permit_allocation/available-permit-moh',
-          'permit_allocationr/final-decision-moh',
-          'permit_allocation/non-specialist-pri-moh',
-          'permit_allocation/permit-allocation-moh-home',
-          'permit_allocation/specialist-pri-moh',
-          'permit_allocation/uac-moh',
+          'moh/home/moh-home',
+          'moh/permit_allocation/automated-pri-moh',
+          'moh/permit_allocation/available-permit-moh',
+          'moh/permit_allocationr/final-decision-moh',
+          'moh/permit_allocation/non-specialist-pri-moh',
+          'moh/permit_allocation/permit-allocation-moh-home',
+          'moh/permit_allocation/specialist-pri-moh',
+          'moh/permit_allocation/uac-moh',
         ],
       },
       {
         type: 'category',
         label: 'moh-facility-user',
         items: [
-          'facility_user_moh/home/home_facility_user_moh',
-          'facility_user_moh/permit_requests-moh-facillity/permit_request_home',
-          'facility_user_moh/permit_requests-moh-facillity/user_budget_ceiling_moh',
-          'facility_user_moh/permit_requests-moh-facillity/user_cadre_ceiling_moh',
-          'facility_user_moh/permit_requests-moh-facillity/user_pri_for_FAC_ceiling_moh',
-          'facility_user_moh/permit_requests-moh-facillity/user_specialist_pri_moh',
-          'facility_user_moh/permit_requests-moh-facillity/user_non_specialist_pri_moh',
-          'facility_user_moh/permit_requests-moh-facillity/user_uac_moh',
+          'facility_user_moh/home/home-facility-user-moh',
+          'facility_user_moh/permit_requests-moh-facillity/permit-request-home',
+          'facility_user_moh/permit_requests-moh-facillity/user-budget-ceiling-moh',
+          'facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh',
+          'facility_user_moh/permit_requests-moh-facillity/user-pri-for_FAC_ceiling-moh',
+          'facility_user_moh/permit_requests-moh-facillity/user-specialist_pri-moh',
+          'facility_user_moh/permit_requests-moh-facillity/user-non-specialist-pri-moh',
+          'facility_user_moh/permit_requests-moh-facillity/user-uac-moh',
           'facility_user_moh/permit_requests-moh-facillity/final-decision-moh',
         ],
-      },    
+      },
     ],
   },
 }
