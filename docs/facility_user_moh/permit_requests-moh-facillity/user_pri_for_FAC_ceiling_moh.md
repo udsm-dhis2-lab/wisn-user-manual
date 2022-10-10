@@ -1,5 +1,5 @@
 ---
-id: user-pri-for-FAC-ceiling-moh
+id: user-pri-for-fac-ceiling-moh
 title: User Automated PRI for Full Automated Cadres (FAC)
 ---
 

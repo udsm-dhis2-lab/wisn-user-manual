@@ -1,5 +1,5 @@
 ---
-id: user_budget_ceiling
+id: user-budget-ceiling
 title: user budget ceiling
 ---
 
@@ -7,4 +7,4 @@ In this part of the system, the Facility user will determine the overall budget 
 
 ![img alt](/img/user_budget_ceiling.png)
 
-   Figure 9: Budget Ceiling
+Figure 9: Budget Ceiling

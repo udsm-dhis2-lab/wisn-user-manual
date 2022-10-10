@@ -1,5 +1,5 @@
 ---
-id: user_cadre_ceiling
+id: user-cadre-ceiling
 title: user cadre ceiling
 ---
 
@@ -10,4 +10,3 @@ Facility user must manually allocate constraints to limit each Fully Automated a
 ![img alt](/img/user_cadre_ceiling.png)
 
      Figure 10: Cadre Ceiling
-
