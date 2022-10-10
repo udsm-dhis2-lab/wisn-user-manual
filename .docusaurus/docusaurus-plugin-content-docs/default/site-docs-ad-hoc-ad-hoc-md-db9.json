@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ad-hoc/ad-hoc",
+  "id": "ad-hoc/ad-hoc",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "With regards to business operation of permits allocation, Ad-Hoc Allocation in this system is being conducted by POLARG.",
+  "source": "@site/docs/ad-hoc/ad-hoc.md",
+  "slug": "/ad-hoc/ad-hoc",
+  "permalink": "/wisn-user-manual/docs/ad-hoc/ad-hoc",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/ad-hoc/ad-hoc.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Final Allocation",
+    "permalink": "/wisn-user-manual/docs/popsm/final-allocation"
+  },
+  "next": {
+    "title": "Approved Cadres",
+    "permalink": "/wisn-user-manual/docs/ad-hoc/approved-cadres"
+  }
+}

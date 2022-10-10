@@ -1,0 +1,12 @@
+{
+  "unversionedId": "facility_user_moh/other-moh-facility/managing-hrh-moh",
+  "id": "facility_user_moh/other-moh-facility/managing-hrh-moh",
+  "isDocsHomePage": false,
+  "title": "Managing HRH Data MOH",
+  "description": "Managing HRH Data",
+  "source": "@site/docs/facility_user_moh/other-moh-facility/managing-hrh-moh-facility.md",
+  "slug": "/facility_user_moh/other-moh-facility/managing-hrh-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/managing-hrh-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/other-moh-facility/managing-hrh-moh-facility.md",
+  "version": "current"
+}

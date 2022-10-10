@@ -1,0 +1,12 @@
+{
+  "unversionedId": "Permit Request/pri-optimization-with-full-automated-cadres",
+  "id": "Permit Request/pri-optimization-with-full-automated-cadres",
+  "isDocsHomePage": false,
+  "title": "PRI Optimization with Full Automated Cadres (FAC)",
+  "description": "The user will be able to enter UAC permits manually. The budget for Total UAC permits (based on salaries) will be deducted from the overall budget that has been allocated by the LGA user in the ‘Budget Constraint Step’. FAC permits allocation in initial optimization will then be re-run internally based on the remaining budget and will therefore impact the previous allocation.",
+  "source": "@site/docs/Permit Request/Permit_UAC.md",
+  "slug": "/Permit Request/pri-optimization-with-full-automated-cadres",
+  "permalink": "/wisn-user-manual/docs/Permit Request/pri-optimization-with-full-automated-cadres",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Permit Request/Permit_UAC.md",
+  "version": "current"
+}

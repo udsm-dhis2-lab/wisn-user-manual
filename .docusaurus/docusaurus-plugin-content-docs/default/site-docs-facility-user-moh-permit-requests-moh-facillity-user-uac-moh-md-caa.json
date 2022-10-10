@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user_moh/permit_requests-moh-facillity/user-uac-moh",
+  "id": "facility_user_moh/permit_requests-moh-facillity/user-uac-moh",
+  "isDocsHomePage": false,
+  "title": "User UAC",
+  "description": "USER ASSISTED CADRE (UAC)",
+  "source": "@site/docs/facility_user_moh/permit_requests-moh-facillity/user_uac_moh.md",
+  "slug": "/facility_user_moh/permit_requests-moh-facillity/user-uac-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-uac-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/permit_requests-moh-facillity/user_uac_moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Non Specilist PRI",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-non-specialist-pri-moh"
+  },
+  "next": {
+    "title": "Final Decision",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/final-decision-moh"
+  }
+}

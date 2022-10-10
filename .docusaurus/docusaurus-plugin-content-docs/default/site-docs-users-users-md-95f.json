@@ -1,0 +1,21 @@
+{
+  "unversionedId": "users/users",
+  "id": "users/users",
+  "isDocsHomePage": false,
+  "title": "User Management",
+  "description": "To create a new user, administrators can search “user” in the main menu search bar (see Figure 73 below), which will open the WISN + POA user application.",
+  "source": "@site/docs/users/users.md",
+  "slug": "/users/users",
+  "permalink": "/wisn-user-manual/docs/users/users",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/users/users.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Managing Cadre Average",
+    "permalink": "/wisn-user-manual/docs/debug/cadre-average"
+  },
+  "next": {
+    "title": "User Account",
+    "permalink": "/wisn-user-manual/docs/users/user-account"
+  }
+}

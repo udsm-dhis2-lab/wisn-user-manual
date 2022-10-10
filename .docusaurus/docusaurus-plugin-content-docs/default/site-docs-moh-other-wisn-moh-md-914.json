@@ -1,0 +1,12 @@
+{
+  "unversionedId": "moh/other/wisn-moh",
+  "id": "moh/other/wisn-moh",
+  "isDocsHomePage": false,
+  "title": "Wisn Data MOH",
+  "description": "WISN Data",
+  "source": "@site/docs/moh/other/wisn-moh.md",
+  "slug": "/moh/other/wisn-moh",
+  "permalink": "/wisn-user-manual/docs/moh/other/wisn-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/other/wisn-moh.md",
+  "version": "current"
+}

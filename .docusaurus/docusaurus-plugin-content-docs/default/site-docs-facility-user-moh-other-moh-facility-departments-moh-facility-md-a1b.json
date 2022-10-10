@@ -1,0 +1,12 @@
+{
+  "unversionedId": "facility_user_moh/other-moh-facility/departments-moh-facility",
+  "id": "facility_user_moh/other-moh-facility/departments-moh-facility",
+  "isDocsHomePage": false,
+  "title": "Departments",
+  "description": "Departments",
+  "source": "@site/docs/facility_user_moh/other-moh-facility/departments-moh-facility.md",
+  "slug": "/facility_user_moh/other-moh-facility/departments-moh-facility",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/departments-moh-facility",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/other-moh-facility/departments-moh-facility.md",
+  "version": "current"
+}

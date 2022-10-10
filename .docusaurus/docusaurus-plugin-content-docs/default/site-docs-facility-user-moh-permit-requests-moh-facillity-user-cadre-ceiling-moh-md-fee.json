@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh",
+  "id": "facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh",
+  "isDocsHomePage": false,
+  "title": "user cadre ceiling",
+  "description": "Cadre Ceiling",
+  "source": "@site/docs/facility_user_moh/permit_requests-moh-facillity/user_cadre_ceiling_moh.md",
+  "slug": "/facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/permit_requests-moh-facillity/user_cadre_ceiling_moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "user budget ceiling",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-budget-ceiling-moh"
+  },
+  "next": {
+    "title": "User Automated PRI for Full Automated Cadres (FAC)",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh"
+  }
+}

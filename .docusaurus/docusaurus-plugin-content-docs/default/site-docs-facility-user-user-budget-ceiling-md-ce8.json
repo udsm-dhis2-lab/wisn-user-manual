@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user/user-budget-ceiling",
+  "id": "facility_user/user-budget-ceiling",
+  "isDocsHomePage": false,
+  "title": "user budget ceiling",
+  "description": "In this part of the system, the Facility user will determine the overall budget that is to be used throughout the permit request process. The Facility user is expected to know the budget or approximate budget they would be allocated for that particular planning year.",
+  "source": "@site/docs/facility_user/user_budget_ceiling.md",
+  "slug": "/facility_user/user-budget-ceiling",
+  "permalink": "/wisn-user-manual/docs/facility_user/user-budget-ceiling",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user/user_budget_ceiling.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Home facility user",
+    "permalink": "/wisn-user-manual/docs/facility_user/home-facility-user"
+  },
+  "next": {
+    "title": "user cadre ceiling",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-cadre-ceiling"
+  }
+}

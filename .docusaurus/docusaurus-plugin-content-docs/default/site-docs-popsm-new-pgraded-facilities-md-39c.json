@@ -1,0 +1,21 @@
+{
+  "unversionedId": "popsm/new-upgraded-facilities",
+  "id": "popsm/new-upgraded-facilities",
+  "isDocsHomePage": false,
+  "title": "New & Upgraded Facilities",
+  "description": "On adding a new Facility. The facility should be the one created in the last 15 Months.New need to be Average of existing HRH by LGA (National for Full operational District Hospitals and Partial operational District hospitals) for each new cadre belongs to that facility type .Also there is a need to update WISN Report so as to have new average need.And lastly tuser will be displayed with the PRI of the new facility based on new average need and its existing HRH.",
+  "source": "@site/docs/popsm/new-pgraded-facilities.md",
+  "slug": "/popsm/new-upgraded-facilities",
+  "permalink": "/wisn-user-manual/docs/popsm/new-upgraded-facilities",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/popsm/new-pgraded-facilities.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Supply Constraints by cadre",
+    "permalink": "/wisn-user-manual/docs/popsm/supply-constraints"
+  },
+  "next": {
+    "title": "Initial Optimization",
+    "permalink": "/wisn-user-manual/docs/popsm/initial-optimization"
+  }
+}

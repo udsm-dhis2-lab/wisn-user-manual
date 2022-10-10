@@ -1,0 +1,382 @@
+{
+  "/wisn-user-manual/-762": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
+  },
+  "/wisn-user-manual/docs-b45": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/wisn-user-manual/docs/-b7f": {
+    "component": "17896441",
+    "content": "a09c2993"
+  },
+  "/wisn-user-manual/docs/ad-hoc/ad-hoc-003": {
+    "component": "17896441",
+    "content": "db91b284"
+  },
+  "/wisn-user-manual/docs/ad-hoc/approved-cadres-ef5": {
+    "component": "17896441",
+    "content": "f02fb769"
+  },
+  "/wisn-user-manual/docs/ad-hoc/facilities-f50": {
+    "component": "17896441",
+    "content": "29e793a8"
+  },
+  "/wisn-user-manual/docs/ad-hoc/final-allocation-4b2": {
+    "component": "17896441",
+    "content": "c9478761"
+  },
+  "/wisn-user-manual/docs/ad-hoc/initial-optimization-50d": {
+    "component": "17896441",
+    "content": "ccb3b2fd"
+  },
+  "/wisn-user-manual/docs/ad-hoc/user-assisted-cadre-0f5": {
+    "component": "17896441",
+    "content": "566fc365"
+  },
+  "/wisn-user-manual/docs/Analytics/analytics-140": {
+    "component": "17896441",
+    "content": "a890d707"
+  },
+  "/wisn-user-manual/docs/Analytics/analytics-moh-eda": {
+    "component": "17896441",
+    "content": "d6cf6f6b"
+  },
+  "/wisn-user-manual/docs/debug/cadre-average-edd": {
+    "component": "17896441",
+    "content": "c80f2be6"
+  },
+  "/wisn-user-manual/docs/debug/hmis-d71": {
+    "component": "17896441",
+    "content": "1e96cde2"
+  },
+  "/wisn-user-manual/docs/debug/hrh-5b4": {
+    "component": "17896441",
+    "content": "82a59b8d"
+  },
+  "/wisn-user-manual/docs/debug/wisn-022": {
+    "component": "17896441",
+    "content": "fcb6c814"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/home/home-facility-user-moh-c26": {
+    "component": "17896441",
+    "content": "586d3914"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/cadres-moh-facility-d7d": {
+    "component": "17896441",
+    "content": "d50836aa"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/departments-moh-facility-24c": {
+    "component": "17896441",
+    "content": "a1bac16a"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/facilities-moh-399": {
+    "component": "17896441",
+    "content": "bcdf5a92"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/hmis-moh-058": {
+    "component": "17896441",
+    "content": "be69ba24"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/managing-hrh-moh-f20": {
+    "component": "17896441",
+    "content": "ef156db4"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/wisn-moh-581": {
+    "component": "17896441",
+    "content": "76ee3b37"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/final-decision-moh-eba": {
+    "component": "17896441",
+    "content": "8e0ef45e"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/permit-request-home-dae": {
+    "component": "17896441",
+    "content": "e80130bf"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-budget-ceiling-moh-c26": {
+    "component": "17896441",
+    "content": "0b99ddac"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh-481": {
+    "component": "17896441",
+    "content": "feea3800"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-non-specialist-pri-moh-f14": {
+    "component": "17896441",
+    "content": "18f83c44"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh-8aa": {
+    "component": "17896441",
+    "content": "71dba83f"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-specialist-pri-moh-923": {
+    "component": "17896441",
+    "content": "2a4f2165"
+  },
+  "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-uac-moh-392": {
+    "component": "17896441",
+    "content": "caa4748f"
+  },
+  "/wisn-user-manual/docs/facility_user/home-facility-user-e08": {
+    "component": "17896441",
+    "content": "0d50e1f4"
+  },
+  "/wisn-user-manual/docs/facility_user/user-budget-ceiling-51c": {
+    "component": "17896441",
+    "content": "ce86a2cd"
+  },
+  "/wisn-user-manual/docs/facility_user/user-cadre-ceiling-5f1": {
+    "component": "17896441",
+    "content": "0e68cab3"
+  },
+  "/wisn-user-manual/docs/facility_user/user-permit-request-home-d24": {
+    "component": "17896441",
+    "content": "150cba22"
+  },
+  "/wisn-user-manual/docs/facility_user/user-pri-for-fac-ceiling-546": {
+    "component": "17896441",
+    "content": "bf19ad78"
+  },
+  "/wisn-user-manual/docs/facility_user/user-prioritized-allocation-6c6": {
+    "component": "17896441",
+    "content": "7c54d6c2"
+  },
+  "/wisn-user-manual/docs/facility_user/user-specialist-pri-111": {
+    "component": "17896441",
+    "content": "e17dc1d6"
+  },
+  "/wisn-user-manual/docs/facility_user/user-uac-524": {
+    "component": "17896441",
+    "content": "7ebc3b4e"
+  },
+  "/wisn-user-manual/docs/home/home-833": {
+    "component": "17896441",
+    "content": "aec54be1"
+  },
+  "/wisn-user-manual/docs/LGA_Permit_Request/cadre-ceiling-lga-781": {
+    "component": "17896441",
+    "content": "bef3fbfa"
+  },
+  "/wisn-user-manual/docs/LGA_Permit_Request/enter-budget-allocation-lga-d42": {
+    "component": "17896441",
+    "content": "9b24a459"
+  },
+  "/wisn-user-manual/docs/LGA_Permit_Request/home-lga-3ec": {
+    "component": "17896441",
+    "content": "a0b9c3ee"
+  },
+  "/wisn-user-manual/docs/LGA_Permit_Request/lga-new-upgraded-facility-e42": {
+    "component": "17896441",
+    "content": "8cd191b3"
+  },
+  "/wisn-user-manual/docs/LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres-bb1": {
+    "component": "17896441",
+    "content": "30115fd8"
+  },
+  "/wisn-user-manual/docs/LGA_Permit_Request/lga-prioritized-allocation-639": {
+    "component": "17896441",
+    "content": "12893042"
+  },
+  "/wisn-user-manual/docs/LGA_Permit_Request/lga-user-assisted-cadre-267": {
+    "component": "17896441",
+    "content": "76f4ac95"
+  },
+  "/wisn-user-manual/docs/LGA_Permit_Request/permit-overview-lga-5b0": {
+    "component": "17896441",
+    "content": "7fe13f82"
+  },
+  "/wisn-user-manual/docs/LGA_Redistribution/lga-customization-and-confirmation-3bb": {
+    "component": "17896441",
+    "content": "83bba134"
+  },
+  "/wisn-user-manual/docs/LGA_Redistribution/lga-recommended-redistribution-563": {
+    "component": "17896441",
+    "content": "9b2de98e"
+  },
+  "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-home-1be": {
+    "component": "17896441",
+    "content": "ab32f5d8"
+  },
+  "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-introduction-2d2": {
+    "component": "17896441",
+    "content": "5a45b59c"
+  },
+  "/wisn-user-manual/docs/LGA_Redistribution/lga-verification-515": {
+    "component": "17896441",
+    "content": "b4a0cab3"
+  },
+  "/wisn-user-manual/docs/LGA_Redistribution/surplus-identification-ffd": {
+    "component": "17896441",
+    "content": "31323407"
+  },
+  "/wisn-user-manual/docs/moh/home/moh-home-f04": {
+    "component": "17896441",
+    "content": "e8a9a359"
+  },
+  "/wisn-user-manual/docs/moh/other/cadres-moh-8a8": {
+    "component": "17896441",
+    "content": "11bf4dcf"
+  },
+  "/wisn-user-manual/docs/moh/other/departments-moh-bc4": {
+    "component": "17896441",
+    "content": "18700013"
+  },
+  "/wisn-user-manual/docs/moh/other/facilities-moh-9af": {
+    "component": "17896441",
+    "content": "abb72da1"
+  },
+  "/wisn-user-manual/docs/moh/other/hmis-moh-819": {
+    "component": "17896441",
+    "content": "1b240204"
+  },
+  "/wisn-user-manual/docs/moh/other/managing-hrh-moh-83f": {
+    "component": "17896441",
+    "content": "293e9236"
+  },
+  "/wisn-user-manual/docs/moh/other/wisn-moh-504": {
+    "component": "17896441",
+    "content": "914e1959"
+  },
+  "/wisn-user-manual/docs/moh/permit_allocation/automated-pri-moh-707": {
+    "component": "17896441",
+    "content": "20953813"
+  },
+  "/wisn-user-manual/docs/moh/permit_allocation/available-permit-moh-098": {
+    "component": "17896441",
+    "content": "3b6fc364"
+  },
+  "/wisn-user-manual/docs/moh/permit_allocation/final-decision-moh-cca": {
+    "component": "17896441",
+    "content": "857a4dd0"
+  },
+  "/wisn-user-manual/docs/moh/permit_allocation/non-specialist-pri-moh-76f": {
+    "component": "17896441",
+    "content": "11adec02"
+  },
+  "/wisn-user-manual/docs/moh/permit_allocation/permit-allocation-moh-home-2bf": {
+    "component": "17896441",
+    "content": "40385b4d"
+  },
+  "/wisn-user-manual/docs/moh/permit_allocation/specialist-pri-moh-ef9": {
+    "component": "17896441",
+    "content": "a5336224"
+  },
+  "/wisn-user-manual/docs/moh/permit_allocation/uac-moh-b1a": {
+    "component": "17896441",
+    "content": "04e6fc9e"
+  },
+  "/wisn-user-manual/docs/period/home-period-0e6": {
+    "component": "17896441",
+    "content": "20fae32e"
+  },
+  "/wisn-user-manual/docs/Permit Request/cadre-ceiling-664": {
+    "component": "17896441",
+    "content": "6507e85d"
+  },
+  "/wisn-user-manual/docs/Permit Request/enter-budget-allocation-060": {
+    "component": "17896441",
+    "content": "0f6885aa"
+  },
+  "/wisn-user-manual/docs/Permit Request/new-upgraded-facility-1da": {
+    "component": "17896441",
+    "content": "bb819d81"
+  },
+  "/wisn-user-manual/docs/Permit Request/pri-optimization-with-full-automated-cadres-f71": {
+    "component": "17896441",
+    "content": "ceb2e41c"
+  },
+  "/wisn-user-manual/docs/Permit Request/pri-optimization-with-full-automated-cadres-891": {
+    "component": "17896441",
+    "content": "3a2b1477"
+  },
+  "/wisn-user-manual/docs/Permit Request/prioritized-allocation-d29": {
+    "component": "17896441",
+    "content": "0a71254c"
+  },
+  "/wisn-user-manual/docs/Permit_Request/cadre-ceiling-326": {
+    "component": "17896441",
+    "content": "5d574a61"
+  },
+  "/wisn-user-manual/docs/Permit_Request/enter-budget-allocation-246": {
+    "component": "17896441",
+    "content": "5fa0e389"
+  },
+  "/wisn-user-manual/docs/Permit_Request/new-upgraded-facility-ef5": {
+    "component": "17896441",
+    "content": "8508b808"
+  },
+  "/wisn-user-manual/docs/Permit_Request/pri-optimization-with-fac-861": {
+    "component": "17896441",
+    "content": "f82100e8"
+  },
+  "/wisn-user-manual/docs/Permit_Request/pri-optimization-with-uac-3b9": {
+    "component": "17896441",
+    "content": "f2908684"
+  },
+  "/wisn-user-manual/docs/Permit_Request/prioritized-allocation-f34": {
+    "component": "17896441",
+    "content": "78a495fa"
+  },
+  "/wisn-user-manual/docs/popsm/final-allocation-886": {
+    "component": "17896441",
+    "content": "17c25060"
+  },
+  "/wisn-user-manual/docs/popsm/initial-optimization-b40": {
+    "component": "17896441",
+    "content": "7bd61aab"
+  },
+  "/wisn-user-manual/docs/popsm/new-upgraded-facilities-6ba": {
+    "component": "17896441",
+    "content": "39cf72cd"
+  },
+  "/wisn-user-manual/docs/popsm/popsm-budget-80d": {
+    "component": "17896441",
+    "content": "13be9ec7"
+  },
+  "/wisn-user-manual/docs/popsm/supply-constraints-e5e": {
+    "component": "17896441",
+    "content": "153b66eb"
+  },
+  "/wisn-user-manual/docs/popsm/user-assisted-cadre-aca": {
+    "component": "17896441",
+    "content": "8a527556"
+  },
+  "/wisn-user-manual/docs/Redistribution/customization-and-confirmation-6c4": {
+    "component": "17896441",
+    "content": "9802ade8"
+  },
+  "/wisn-user-manual/docs/Redistribution/home-redistribution-209": {
+    "component": "17896441",
+    "content": "8118a77b"
+  },
+  "/wisn-user-manual/docs/Redistribution/recommended-redistribution-8ca": {
+    "component": "17896441",
+    "content": "c44bdb2e"
+  },
+  "/wisn-user-manual/docs/Redistribution/redistribution-introduction-b05": {
+    "component": "17896441",
+    "content": "eda67d61"
+  },
+  "/wisn-user-manual/docs/Redistribution/surplus-identification-e2d": {
+    "component": "17896441",
+    "content": "baf8bb5d"
+  },
+  "/wisn-user-manual/docs/Redistribution/verification-3f6": {
+    "component": "17896441",
+    "content": "6c064143"
+  },
+  "/wisn-user-manual/docs/system/cadre-b45": {
+    "component": "17896441",
+    "content": "8c4c5e0f"
+  },
+  "/wisn-user-manual/docs/users/user-account-af9": {
+    "component": "17896441",
+    "content": "709fffe6"
+  },
+  "/wisn-user-manual/docs/users/users-b06": {
+    "component": "17896441",
+    "content": "95fa7ae9"
+  }
+}

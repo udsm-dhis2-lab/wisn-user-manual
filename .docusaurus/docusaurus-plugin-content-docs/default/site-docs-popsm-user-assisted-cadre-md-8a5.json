@@ -1,0 +1,21 @@
+{
+  "unversionedId": "popsm/user-assisted-cadre",
+  "id": "popsm/user-assisted-cadre",
+  "isDocsHomePage": false,
+  "title": "User Assisted Cadre (UAC)",
+  "description": "Permits",
+  "source": "@site/docs/popsm/user-assisted-cadre.md",
+  "slug": "/popsm/user-assisted-cadre",
+  "permalink": "/wisn-user-manual/docs/popsm/user-assisted-cadre",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/popsm/user-assisted-cadre.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Initial Optimization",
+    "permalink": "/wisn-user-manual/docs/popsm/initial-optimization"
+  },
+  "next": {
+    "title": "Final Allocation",
+    "permalink": "/wisn-user-manual/docs/popsm/final-allocation"
+  }
+}

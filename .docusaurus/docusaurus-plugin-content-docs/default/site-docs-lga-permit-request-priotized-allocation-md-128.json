@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Permit_Request/lga-prioritized-allocation",
+  "id": "LGA_Permit_Request/lga-prioritized-allocation",
+  "isDocsHomePage": false,
+  "title": "LGA Prioritized Allocation",
+  "description": "The system will display a new PRI list which takes into account the UAC permit requests. From the total budget, cost for UAC will be deducted and the remaining amount will be used to assign the permit request based on PRI",
+  "source": "@site/docs/LGA_Permit_Request/Priotized_Allocation.md",
+  "slug": "/LGA_Permit_Request/lga-prioritized-allocation",
+  "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-prioritized-allocation",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Permit_Request/Priotized_Allocation.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "LGA User Assisted Cadre (UAC)",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-user-assisted-cadre"
+  },
+  "next": {
+    "title": "Permit Overview LGA",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/permit-overview-lga"
+  }
+}

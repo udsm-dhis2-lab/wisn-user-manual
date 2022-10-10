@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ad-hoc/approved-cadres",
+  "id": "ad-hoc/approved-cadres",
+  "isDocsHomePage": false,
+  "title": "Approved Cadres",
+  "description": "TThe  allocation is done by specifying  The permit per Cadre then it will do the calculation of Annual budget based on Cadre annual salaries and number of permits(see figure below) Here the user is not being limited by the budget but rather total permits will determine the total budget when continue with other allocation process like budget limit on initial optimization stage.",
+  "source": "@site/docs/ad-hoc/approved-cadres.md",
+  "slug": "/ad-hoc/approved-cadres",
+  "permalink": "/wisn-user-manual/docs/ad-hoc/approved-cadres",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/ad-hoc/approved-cadres.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/wisn-user-manual/docs/ad-hoc/ad-hoc"
+  },
+  "next": {
+    "title": "Facilities",
+    "permalink": "/wisn-user-manual/docs/ad-hoc/facilities"
+  }
+}

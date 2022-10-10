@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Permit_Request/lga-user-assisted-cadre",
+  "id": "LGA_Permit_Request/lga-user-assisted-cadre",
+  "isDocsHomePage": false,
+  "title": "LGA User Assisted Cadre (UAC)",
+  "description": "i.  Permits",
+  "source": "@site/docs/LGA_Permit_Request/User_Assisted_Cadre.md",
+  "slug": "/LGA_Permit_Request/lga-user-assisted-cadre",
+  "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-user-assisted-cadre",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Permit_Request/User_Assisted_Cadre.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "LGA PRI Optimization with Full Automated Cadres (FAC)",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres"
+  },
+  "next": {
+    "title": "LGA Prioritized Allocation",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-prioritized-allocation"
+  }
+}

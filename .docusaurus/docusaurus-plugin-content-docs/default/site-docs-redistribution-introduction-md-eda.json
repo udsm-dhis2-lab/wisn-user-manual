@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Redistribution/redistribution-introduction",
+  "id": "Redistribution/redistribution-introduction",
+  "isDocsHomePage": false,
+  "title": "Redistribution Introduction",
+  "description": "The aim of the Redistribution section is to support the National Stakeholder, in particular the PORALG,and LGA in the process of reallocating Healthcare Workers from a facility where surplus has been identified to another facility where there is a need and deficit.The redistribution involves five stages to complete the process.",
+  "source": "@site/docs/Redistribution/introduction.md",
+  "slug": "/Redistribution/redistribution-introduction",
+  "permalink": "/wisn-user-manual/docs/Redistribution/redistribution-introduction",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Redistribution/introduction.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Home Redistribution",
+    "permalink": "/wisn-user-manual/docs/Redistribution/home-redistribution"
+  },
+  "next": {
+    "title": "Surplus Identification",
+    "permalink": "/wisn-user-manual/docs/Redistribution/surplus-identification"
+  }
+}

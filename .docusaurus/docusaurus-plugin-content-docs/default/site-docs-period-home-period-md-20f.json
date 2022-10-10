@@ -1,0 +1,21 @@
+{
+  "unversionedId": "period/home-period",
+  "id": "period/home-period",
+  "isDocsHomePage": false,
+  "title": "Period",
+  "description": "Selecting Period",
+  "source": "@site/docs/period/home_period.md",
+  "slug": "/period/home-period",
+  "permalink": "/wisn-user-manual/docs/period/home-period",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/period/home_period.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Home LGA",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/home-lga"
+  },
+  "next": {
+    "title": "Home facility user",
+    "permalink": "/wisn-user-manual/docs/facility_user/home-facility-user"
+  }
+}

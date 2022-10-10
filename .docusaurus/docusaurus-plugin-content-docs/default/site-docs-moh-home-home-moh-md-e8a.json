@@ -1,0 +1,21 @@
+{
+  "unversionedId": "moh/home/moh-home",
+  "id": "moh/home/moh-home",
+  "isDocsHomePage": false,
+  "title": "MOH home",
+  "description": "Home",
+  "source": "@site/docs/moh/home/home-moh.md",
+  "slug": "/moh/home/moh-home",
+  "permalink": "/wisn-user-manual/docs/moh/home/moh-home",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/home/home-moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User UAC",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-uac"
+  },
+  "next": {
+    "title": "Automated PRI MOH",
+    "permalink": "/wisn-user-manual/docs/moh/permit_allocation/automated-pri-moh"
+  }
+}

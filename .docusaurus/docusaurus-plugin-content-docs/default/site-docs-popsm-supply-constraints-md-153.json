@@ -1,0 +1,21 @@
+{
+  "unversionedId": "popsm/supply-constraints",
+  "id": "popsm/supply-constraints",
+  "isDocsHomePage": false,
+  "title": "Supply Constraints by cadre",
+  "description": "Constraints to limits FAC and UAC permits to be allocated. Here the number on each cadre for the whole LGA will be specified.Add constraint button allows the user to add a new constraint any time and reset selection allows the user to delete all created constraints at once. The action button allows the user to edit and delete individual constraint.",
+  "source": "@site/docs/popsm/supply-constraints.md",
+  "slug": "/popsm/supply-constraints",
+  "permalink": "/wisn-user-manual/docs/popsm/supply-constraints",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/popsm/supply-constraints.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Budget Allocation",
+    "permalink": "/wisn-user-manual/docs/popsm/popsm-budget"
+  },
+  "next": {
+    "title": "New & Upgraded Facilities",
+    "permalink": "/wisn-user-manual/docs/popsm/new-upgraded-facilities"
+  }
+}

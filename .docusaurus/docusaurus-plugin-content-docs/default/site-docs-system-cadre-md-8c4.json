@@ -1,0 +1,21 @@
+{
+  "unversionedId": "system/cadre",
+  "id": "system/cadre",
+  "isDocsHomePage": false,
+  "title": "Managing Cadres",
+  "description": "This is under the System setup section. It contains the List of all cadres added.",
+  "source": "@site/docs/system/cadre.md",
+  "slug": "/system/cadre",
+  "permalink": "/wisn-user-manual/docs/system/cadre",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/system/cadre.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Final Allocation",
+    "permalink": "/wisn-user-manual/docs/ad-hoc/final-allocation"
+  },
+  "next": {
+    "title": "Managing WISN Data",
+    "permalink": "/wisn-user-manual/docs/debug/wisn"
+  }
+}

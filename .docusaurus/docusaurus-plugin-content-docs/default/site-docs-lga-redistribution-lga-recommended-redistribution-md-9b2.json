@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Redistribution/lga-recommended-redistribution",
+  "id": "LGA_Redistribution/lga-recommended-redistribution",
+  "isDocsHomePage": false,
+  "title": "LGA Recommended Redistribution",
+  "description": "At this stage, the user is able to trigger the redistribution process which is an automatic process whereby the selected surplus cadres (either verified which is a default one or optimal) from the previous step are redistributed/allocated to a facility with deficit by without considering the shortest geographical distance since the redistribution is within the LGA.",
+  "source": "@site/docs/LGA_Redistribution/LGA_Recommended_Redistribution.md",
+  "slug": "/LGA_Redistribution/lga-recommended-redistribution",
+  "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-recommended-redistribution",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Redistribution/LGA_Recommended_Redistribution.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Surplus Identification",
+    "permalink": "/wisn-user-manual/docs/LGA_Redistribution/surplus-identification"
+  },
+  "next": {
+    "title": "LGA Customization and Confirmation",
+    "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-customization-and-confirmation"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user/user-pri-for-fac-ceiling",
+  "id": "facility_user/user-pri-for-fac-ceiling",
+  "isDocsHomePage": false,
+  "title": "User Automated PRI for Full Automated Cadres (FAC)",
+  "description": "Automated PRI for Full Automated Cadres (FAC)",
+  "source": "@site/docs/facility_user/user_pri_for_FAC_ceiling.md",
+  "slug": "/facility_user/user-pri-for-fac-ceiling",
+  "permalink": "/wisn-user-manual/docs/facility_user/user-pri-for-fac-ceiling",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user/user_pri_for_FAC_ceiling.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "user cadre ceiling",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-cadre-ceiling"
+  },
+  "next": {
+    "title": "User Specilist PRI",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-specialist-pri"
+  }
+}

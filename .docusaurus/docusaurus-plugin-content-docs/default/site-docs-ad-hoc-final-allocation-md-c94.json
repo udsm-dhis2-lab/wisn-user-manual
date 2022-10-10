@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ad-hoc/final-allocation",
+  "id": "ad-hoc/final-allocation",
+  "isDocsHomePage": false,
+  "title": "Final Allocation",
+  "description": "The system will display a summary of FAC and UAC allocation permits as per LGA. And it is in this process users can  apply constraints which affect previously allocated FAC permits in specific LGA or even national ones .",
+  "source": "@site/docs/ad-hoc/final-allocation.md",
+  "slug": "/ad-hoc/final-allocation",
+  "permalink": "/wisn-user-manual/docs/ad-hoc/final-allocation",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/ad-hoc/final-allocation.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Assisted Cadre (UAC)",
+    "permalink": "/wisn-user-manual/docs/ad-hoc/user-assisted-cadre"
+  },
+  "next": {
+    "title": "Managing Cadres",
+    "permalink": "/wisn-user-manual/docs/system/cadre"
+  }
+}

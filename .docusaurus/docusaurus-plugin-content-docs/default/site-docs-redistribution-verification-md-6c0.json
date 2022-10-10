@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Redistribution/verification",
+  "id": "Redistribution/verification",
+  "isDocsHomePage": false,
+  "title": "Verification",
+  "description": "This stage enables the verification of surplus staff from the LGA to the national user to ensure it takes the appropriate number of redistributed staff to the next step.",
+  "source": "@site/docs/Redistribution/Verification.md",
+  "slug": "/Redistribution/verification",
+  "permalink": "/wisn-user-manual/docs/Redistribution/verification",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Redistribution/Verification.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Surplus Identification",
+    "permalink": "/wisn-user-manual/docs/Redistribution/surplus-identification"
+  },
+  "next": {
+    "title": "Recommended Redistribution",
+    "permalink": "/wisn-user-manual/docs/Redistribution/recommended-redistribution"
+  }
+}

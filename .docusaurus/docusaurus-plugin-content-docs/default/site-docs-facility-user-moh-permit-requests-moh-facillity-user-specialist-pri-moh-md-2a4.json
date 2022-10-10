@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user_moh/permit_requests-moh-facillity/user-specialist-pri-moh",
+  "id": "facility_user_moh/permit_requests-moh-facillity/user-specialist-pri-moh",
+  "isDocsHomePage": false,
+  "title": "User Specilist PRI",
+  "description": "User Specilist PRI",
+  "source": "@site/docs/facility_user_moh/permit_requests-moh-facillity/user_specialist_pri_moh.md",
+  "slug": "/facility_user_moh/permit_requests-moh-facillity/user-specialist-pri-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-specialist-pri-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/permit_requests-moh-facillity/user_specialist_pri_moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Automated PRI for Full Automated Cadres (FAC)",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh"
+  },
+  "next": {
+    "title": "User Non Specilist PRI",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-non-specialist-pri-moh"
+  }
+}

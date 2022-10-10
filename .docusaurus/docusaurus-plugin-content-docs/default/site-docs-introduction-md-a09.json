@@ -1,0 +1,18 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Welcome to WISN + POA",
+  "source": "@site/docs/introduction.md",
+  "slug": "/",
+  "permalink": "/wisn-user-manual/docs/",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/introduction.md",
+  "version": "current",
+  "sidebar_label": "Introduction",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Home",
+    "permalink": "/wisn-user-manual/docs/home/home"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user/user-specialist-pri",
+  "id": "facility_user/user-specialist-pri",
+  "isDocsHomePage": false,
+  "title": "User Specilist PRI",
+  "description": "The previous process of Automated PRI took specialist and no specialist cadres, so this stage only covers specialist cadres, functionalities remained the same with additional reassignment features. On the assignment designation column, user can reassign the permit and use the budget to allocate permit somewhere else.",
+  "source": "@site/docs/facility_user/user_specialist_pri.md",
+  "slug": "/facility_user/user-specialist-pri",
+  "permalink": "/wisn-user-manual/docs/facility_user/user-specialist-pri",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user/user_specialist_pri.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Automated PRI for Full Automated Cadres (FAC)",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-pri-for-fac-ceiling"
+  },
+  "next": {
+    "title": "User UAC",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-uac"
+  }
+}

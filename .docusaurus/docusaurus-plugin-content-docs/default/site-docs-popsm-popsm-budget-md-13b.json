@@ -1,0 +1,21 @@
+{
+  "unversionedId": "popsm/popsm-budget",
+  "id": "popsm/popsm-budget",
+  "isDocsHomePage": false,
+  "title": "Budget Allocation",
+  "description": "The POPSM user gives the overall budget which will be divided to PORALG and MoHCDGEC and then the one for PORALG will be divided for new permits budget and budget for other expenses.",
+  "source": "@site/docs/popsm/popsm-budget.md",
+  "slug": "/popsm/popsm-budget",
+  "permalink": "/wisn-user-manual/docs/popsm/popsm-budget",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/popsm/popsm-budget.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/wisn-user-manual/docs/home/home"
+  },
+  "next": {
+    "title": "Supply Constraints by cadre",
+    "permalink": "/wisn-user-manual/docs/popsm/supply-constraints"
+  }
+}

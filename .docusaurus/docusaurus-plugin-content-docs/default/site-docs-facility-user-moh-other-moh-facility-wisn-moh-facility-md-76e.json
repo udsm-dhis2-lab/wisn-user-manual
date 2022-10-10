@@ -1,0 +1,12 @@
+{
+  "unversionedId": "facility_user_moh/other-moh-facility/wisn-moh",
+  "id": "facility_user_moh/other-moh-facility/wisn-moh",
+  "isDocsHomePage": false,
+  "title": "Wisn Data MOH",
+  "description": "WISN Data",
+  "source": "@site/docs/facility_user_moh/other-moh-facility/wisn-moh-facility.md",
+  "slug": "/facility_user_moh/other-moh-facility/wisn-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/wisn-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/other-moh-facility/wisn-moh-facility.md",
+  "version": "current"
+}

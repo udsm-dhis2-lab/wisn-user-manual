@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user/user-cadre-ceiling",
+  "id": "facility_user/user-cadre-ceiling",
+  "isDocsHomePage": false,
+  "title": "user cadre ceiling",
+  "description": "Cadre Ceiling",
+  "source": "@site/docs/facility_user/user_cadre_ceiling.md",
+  "slug": "/facility_user/user-cadre-ceiling",
+  "permalink": "/wisn-user-manual/docs/facility_user/user-cadre-ceiling",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user/user_cadre_ceiling.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "user budget ceiling",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-budget-ceiling"
+  },
+  "next": {
+    "title": "User Automated PRI for Full Automated Cadres (FAC)",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-pri-for-fac-ceiling"
+  }
+}

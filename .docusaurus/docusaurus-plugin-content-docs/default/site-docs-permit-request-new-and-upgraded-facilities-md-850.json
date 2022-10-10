@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Permit_Request/new-upgraded-facility",
+  "id": "Permit_Request/new-upgraded-facility",
+  "isDocsHomePage": false,
+  "title": "New & Upgraded_Facility",
+  "description": "In this section, the LGA user must confirm the new and upgraded facilities. New facilities are being developed by the GoT and certain facilities are being upgraded so the system will need to take this into account before any allocation is done. For a facility to be considered new, it must have been created within the past 15 months. This information will be provided in the system. The user will be required to add new and upgraded facilities at each LGA.",
+  "source": "@site/docs/Permit_Request/New_and_Upgraded_Facilities.md",
+  "slug": "/Permit_Request/new-upgraded-facility",
+  "permalink": "/wisn-user-manual/docs/Permit_Request/new-upgraded-facility",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Permit_Request/New_and_Upgraded_Facilities.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Cadre Ceiling",
+    "permalink": "/wisn-user-manual/docs/Permit_Request/cadre-ceiling"
+  },
+  "next": {
+    "title": "PRI Optimization with Full Automated Cadres (FAC)",
+    "permalink": "/wisn-user-manual/docs/Permit_Request/pri-optimization-with-fac"
+  }
+}

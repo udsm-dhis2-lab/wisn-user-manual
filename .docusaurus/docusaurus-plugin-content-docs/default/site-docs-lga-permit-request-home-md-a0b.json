@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Permit_Request/home-lga",
+  "id": "LGA_Permit_Request/home-lga",
+  "isDocsHomePage": false,
+  "title": "Home LGA",
+  "description": "Upon login, every user will take his/her journey towards execution and completion of various tasks assigned to roles in the system. For each role, there are authorities associated with it, which grants or restricts permissions for each user towards managing tasks in the system. All users will initially be directed to the home page, where they can view a summary of the WISN data across the country for the 13 Fully Automated Cadres (FAC) which represent the core cadres. The user can view the data at different organizational unit levels from council and all the way down to facility level.",
+  "source": "@site/docs/LGA_Permit_Request/home.md",
+  "slug": "/LGA_Permit_Request/home-lga",
+  "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/home-lga",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Permit_Request/home.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Permit Overview LGA",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/permit-overview-lga"
+  },
+  "next": {
+    "title": "Period",
+    "permalink": "/wisn-user-manual/docs/period/home-period"
+  }
+}

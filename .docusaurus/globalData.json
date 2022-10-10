@@ -1,0 +1,463 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/wisn-user-manual/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/wisn-user-manual/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "ad-hoc/ad-hoc",
+              "path": "/wisn-user-manual/docs/ad-hoc/ad-hoc",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ad-hoc/approved-cadres",
+              "path": "/wisn-user-manual/docs/ad-hoc/approved-cadres",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ad-hoc/facilities",
+              "path": "/wisn-user-manual/docs/ad-hoc/facilities",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ad-hoc/final-allocation",
+              "path": "/wisn-user-manual/docs/ad-hoc/final-allocation",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ad-hoc/initial-optimization",
+              "path": "/wisn-user-manual/docs/ad-hoc/initial-optimization",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ad-hoc/user-assisted-cadre",
+              "path": "/wisn-user-manual/docs/ad-hoc/user-assisted-cadre",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Analytics/analytics",
+              "path": "/wisn-user-manual/docs/Analytics/analytics",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Analytics/analytics-moh",
+              "path": "/wisn-user-manual/docs/Analytics/analytics-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "debug/cadre-average",
+              "path": "/wisn-user-manual/docs/debug/cadre-average",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "debug/hmis",
+              "path": "/wisn-user-manual/docs/debug/hmis",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "debug/hrh",
+              "path": "/wisn-user-manual/docs/debug/hrh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "debug/wisn",
+              "path": "/wisn-user-manual/docs/debug/wisn",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/home/home-facility-user-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/home/home-facility-user-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/other-moh-facility/cadres-moh-facility",
+              "path": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/cadres-moh-facility"
+            },
+            {
+              "id": "facility_user_moh/other-moh-facility/departments-moh-facility",
+              "path": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/departments-moh-facility"
+            },
+            {
+              "id": "facility_user_moh/other-moh-facility/facilities-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/facilities-moh"
+            },
+            {
+              "id": "facility_user_moh/other-moh-facility/hmis-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/hmis-moh"
+            },
+            {
+              "id": "facility_user_moh/other-moh-facility/managing-hrh-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/managing-hrh-moh"
+            },
+            {
+              "id": "facility_user_moh/other-moh-facility/wisn-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/wisn-moh"
+            },
+            {
+              "id": "facility_user_moh/permit_requests-moh-facillity/final-decision-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/final-decision-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/permit_requests-moh-facillity/permit-request-home",
+              "path": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/permit-request-home",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/permit_requests-moh-facillity/user-budget-ceiling-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-budget-ceiling-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/permit_requests-moh-facillity/user-non-specialist-pri-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-non-specialist-pri-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/permit_requests-moh-facillity/user-specialist-pri-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-specialist-pri-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user_moh/permit_requests-moh-facillity/user-uac-moh",
+              "path": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-uac-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user/home-facility-user",
+              "path": "/wisn-user-manual/docs/facility_user/home-facility-user",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user/user-budget-ceiling",
+              "path": "/wisn-user-manual/docs/facility_user/user-budget-ceiling",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user/user-cadre-ceiling",
+              "path": "/wisn-user-manual/docs/facility_user/user-cadre-ceiling",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user/user-permit-request-home",
+              "path": "/wisn-user-manual/docs/facility_user/user-permit-request-home"
+            },
+            {
+              "id": "facility_user/user-pri-for-fac-ceiling",
+              "path": "/wisn-user-manual/docs/facility_user/user-pri-for-fac-ceiling",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user/user-prioritized-allocation",
+              "path": "/wisn-user-manual/docs/facility_user/user-prioritized-allocation"
+            },
+            {
+              "id": "facility_user/user-specialist-pri",
+              "path": "/wisn-user-manual/docs/facility_user/user-specialist-pri",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "facility_user/user-uac",
+              "path": "/wisn-user-manual/docs/facility_user/user-uac",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "home/home",
+              "path": "/wisn-user-manual/docs/home/home",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/wisn-user-manual/docs/",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Permit_Request/cadre-ceiling-lga",
+              "path": "/wisn-user-manual/docs/LGA_Permit_Request/cadre-ceiling-lga",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Permit_Request/enter-budget-allocation-lga",
+              "path": "/wisn-user-manual/docs/LGA_Permit_Request/enter-budget-allocation-lga",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Permit_Request/home-lga",
+              "path": "/wisn-user-manual/docs/LGA_Permit_Request/home-lga",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Permit_Request/lga-new-upgraded-facility",
+              "path": "/wisn-user-manual/docs/LGA_Permit_Request/lga-new-upgraded-facility",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres",
+              "path": "/wisn-user-manual/docs/LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Permit_Request/lga-prioritized-allocation",
+              "path": "/wisn-user-manual/docs/LGA_Permit_Request/lga-prioritized-allocation",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Permit_Request/lga-user-assisted-cadre",
+              "path": "/wisn-user-manual/docs/LGA_Permit_Request/lga-user-assisted-cadre",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Permit_Request/permit-overview-lga",
+              "path": "/wisn-user-manual/docs/LGA_Permit_Request/permit-overview-lga",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Redistribution/lga-customization-and-confirmation",
+              "path": "/wisn-user-manual/docs/LGA_Redistribution/lga-customization-and-confirmation",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Redistribution/lga-recommended-redistribution",
+              "path": "/wisn-user-manual/docs/LGA_Redistribution/lga-recommended-redistribution",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Redistribution/lga-redistribution-home",
+              "path": "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-home",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Redistribution/lga-redistribution-introduction",
+              "path": "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-introduction",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Redistribution/lga-verification",
+              "path": "/wisn-user-manual/docs/LGA_Redistribution/lga-verification",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "LGA_Redistribution/surplus-identification",
+              "path": "/wisn-user-manual/docs/LGA_Redistribution/surplus-identification",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "moh/home/moh-home",
+              "path": "/wisn-user-manual/docs/moh/home/moh-home",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "moh/other/cadres-moh",
+              "path": "/wisn-user-manual/docs/moh/other/cadres-moh"
+            },
+            {
+              "id": "moh/other/departments-moh",
+              "path": "/wisn-user-manual/docs/moh/other/departments-moh"
+            },
+            {
+              "id": "moh/other/facilities-moh",
+              "path": "/wisn-user-manual/docs/moh/other/facilities-moh"
+            },
+            {
+              "id": "moh/other/hmis-moh",
+              "path": "/wisn-user-manual/docs/moh/other/hmis-moh"
+            },
+            {
+              "id": "moh/other/managing-hrh-moh",
+              "path": "/wisn-user-manual/docs/moh/other/managing-hrh-moh"
+            },
+            {
+              "id": "moh/other/wisn-moh",
+              "path": "/wisn-user-manual/docs/moh/other/wisn-moh"
+            },
+            {
+              "id": "moh/permit_allocation/automated-pri-moh",
+              "path": "/wisn-user-manual/docs/moh/permit_allocation/automated-pri-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "moh/permit_allocation/available-permit-moh",
+              "path": "/wisn-user-manual/docs/moh/permit_allocation/available-permit-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "moh/permit_allocation/final-decision-moh",
+              "path": "/wisn-user-manual/docs/moh/permit_allocation/final-decision-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "moh/permit_allocation/non-specialist-pri-moh",
+              "path": "/wisn-user-manual/docs/moh/permit_allocation/non-specialist-pri-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "moh/permit_allocation/permit-allocation-moh-home",
+              "path": "/wisn-user-manual/docs/moh/permit_allocation/permit-allocation-moh-home",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "moh/permit_allocation/specialist-pri-moh",
+              "path": "/wisn-user-manual/docs/moh/permit_allocation/specialist-pri-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "moh/permit_allocation/uac-moh",
+              "path": "/wisn-user-manual/docs/moh/permit_allocation/uac-moh",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "period/home-period",
+              "path": "/wisn-user-manual/docs/period/home-period",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Permit Request/cadre-ceiling",
+              "path": "/wisn-user-manual/docs/Permit Request/cadre-ceiling"
+            },
+            {
+              "id": "Permit Request/enter-budget-allocation",
+              "path": "/wisn-user-manual/docs/Permit Request/enter-budget-allocation"
+            },
+            {
+              "id": "Permit Request/new-upgraded-facility",
+              "path": "/wisn-user-manual/docs/Permit Request/new-upgraded-facility"
+            },
+            {
+              "id": "Permit Request/pri-optimization-with-full-automated-cadres",
+              "path": "/wisn-user-manual/docs/Permit Request/pri-optimization-with-full-automated-cadres"
+            },
+            {
+              "id": "Permit Request/pri-optimization-with-full-automated-cadres",
+              "path": "/wisn-user-manual/docs/Permit Request/pri-optimization-with-full-automated-cadres"
+            },
+            {
+              "id": "Permit Request/prioritized-allocation",
+              "path": "/wisn-user-manual/docs/Permit Request/prioritized-allocation"
+            },
+            {
+              "id": "Permit_Request/cadre-ceiling",
+              "path": "/wisn-user-manual/docs/Permit_Request/cadre-ceiling",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Permit_Request/enter-budget-allocation",
+              "path": "/wisn-user-manual/docs/Permit_Request/enter-budget-allocation",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Permit_Request/new-upgraded-facility",
+              "path": "/wisn-user-manual/docs/Permit_Request/new-upgraded-facility",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Permit_Request/pri-optimization-with-fac",
+              "path": "/wisn-user-manual/docs/Permit_Request/pri-optimization-with-fac",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Permit_Request/pri-optimization-with-uac",
+              "path": "/wisn-user-manual/docs/Permit_Request/pri-optimization-with-uac",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Permit_Request/prioritized-allocation",
+              "path": "/wisn-user-manual/docs/Permit_Request/prioritized-allocation",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "popsm/final-allocation",
+              "path": "/wisn-user-manual/docs/popsm/final-allocation",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "popsm/initial-optimization",
+              "path": "/wisn-user-manual/docs/popsm/initial-optimization",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "popsm/new-upgraded-facilities",
+              "path": "/wisn-user-manual/docs/popsm/new-upgraded-facilities",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "popsm/popsm-budget",
+              "path": "/wisn-user-manual/docs/popsm/popsm-budget",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "popsm/supply-constraints",
+              "path": "/wisn-user-manual/docs/popsm/supply-constraints",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "popsm/user-assisted-cadre",
+              "path": "/wisn-user-manual/docs/popsm/user-assisted-cadre",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Redistribution/customization-and-confirmation",
+              "path": "/wisn-user-manual/docs/Redistribution/customization-and-confirmation",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Redistribution/home-redistribution",
+              "path": "/wisn-user-manual/docs/Redistribution/home-redistribution",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Redistribution/recommended-redistribution",
+              "path": "/wisn-user-manual/docs/Redistribution/recommended-redistribution",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Redistribution/redistribution-introduction",
+              "path": "/wisn-user-manual/docs/Redistribution/redistribution-introduction",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Redistribution/surplus-identification",
+              "path": "/wisn-user-manual/docs/Redistribution/surplus-identification",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Redistribution/verification",
+              "path": "/wisn-user-manual/docs/Redistribution/verification",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "system/cadre",
+              "path": "/wisn-user-manual/docs/system/cadre",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "users/user-account",
+              "path": "/wisn-user-manual/docs/users/user-account",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "users/users",
+              "path": "/wisn-user-manual/docs/users/users",
+              "sidebar": "someSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

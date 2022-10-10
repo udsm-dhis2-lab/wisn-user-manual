@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user/home-facility-user",
+  "id": "facility_user/home-facility-user",
+  "isDocsHomePage": false,
+  "title": "Home facility user",
+  "description": "All users must log into the system using their username and password. Access cannot be gained to the system without having a verified account and entering the correct login details, which are stored on the WISN + POA database. The system requires users to have internet access as the system is currently stored in the DHIS2 software. Once the user has entered the URL below, they will be directed to the login page pictured in Figure 0.",
+  "source": "@site/docs/facility_user/home_facility_user.md",
+  "slug": "/facility_user/home-facility-user",
+  "permalink": "/wisn-user-manual/docs/facility_user/home-facility-user",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user/home_facility_user.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Period",
+    "permalink": "/wisn-user-manual/docs/period/home-period"
+  },
+  "next": {
+    "title": "user budget ceiling",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-budget-ceiling"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Permit_Request/permit-overview-lga",
+  "id": "LGA_Permit_Request/permit-overview-lga",
+  "isDocsHomePage": false,
+  "title": "Permit Overview LGA",
+  "description": "The permit request process will be used by the LGA user. The permit request process in the WISN+POA system refers to the annual permit request that is carried out by LGAs and therefore they are the only users in the system with access to this specific section. The LGA user will be able to see the ‘permit allocation’ function on the left-hand side of the system to begin the process. The permit request process guides the user through a 7-step process with key functionalities that assist the user throughout each step.",
+  "source": "@site/docs/LGA_Permit_Request/Permit_Overview.md",
+  "slug": "/LGA_Permit_Request/permit-overview-lga",
+  "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/permit-overview-lga",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Permit_Request/Permit_Overview.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "LGA Prioritized Allocation",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-prioritized-allocation"
+  },
+  "next": {
+    "title": "Home LGA",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/home-lga"
+  }
+}

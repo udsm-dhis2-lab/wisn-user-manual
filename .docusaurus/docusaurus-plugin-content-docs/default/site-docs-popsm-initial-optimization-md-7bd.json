@@ -1,0 +1,21 @@
+{
+  "unversionedId": "popsm/initial-optimization",
+  "id": "popsm/initial-optimization",
+  "isDocsHomePage": false,
+  "title": "Initial Optimization",
+  "description": "Initial optimization process allows users to apply allocation permits to all Full automated cadre as per Priority Ranking index but limited with budget set and maximum supply if available for specific cadre. So user will only need to see the list and press the apply constraint button",
+  "source": "@site/docs/popsm/initial-optimization.md",
+  "slug": "/popsm/initial-optimization",
+  "permalink": "/wisn-user-manual/docs/popsm/initial-optimization",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/popsm/initial-optimization.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "New & Upgraded Facilities",
+    "permalink": "/wisn-user-manual/docs/popsm/new-upgraded-facilities"
+  },
+  "next": {
+    "title": "User Assisted Cadre (UAC)",
+    "permalink": "/wisn-user-manual/docs/popsm/user-assisted-cadre"
+  }
+}

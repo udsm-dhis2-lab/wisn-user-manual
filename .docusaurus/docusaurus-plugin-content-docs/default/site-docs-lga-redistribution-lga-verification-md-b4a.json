@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Redistribution/lga-verification",
+  "id": "LGA_Redistribution/lga-verification",
+  "isDocsHomePage": false,
+  "title": "LGA Verification",
+  "description": "This stage enables the verification of surplus staff from the regions to the LGA user to ensure it takes the appropriate number of redistributed staff to the next step.",
+  "source": "@site/docs/LGA_Redistribution/LGA_Verification.md",
+  "slug": "/LGA_Redistribution/lga-verification",
+  "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-verification",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Redistribution/LGA_Verification.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "LGA Customization and Confirmation",
+    "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-customization-and-confirmation"
+  },
+  "next": {
+    "title": "Enter Budget Allocation",
+    "permalink": "/wisn-user-manual/docs/Permit_Request/enter-budget-allocation"
+  }
+}

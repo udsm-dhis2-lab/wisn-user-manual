@@ -1,0 +1,12 @@
+{
+  "unversionedId": "moh/other/facilities-moh",
+  "id": "moh/other/facilities-moh",
+  "isDocsHomePage": false,
+  "title": "Facilities MOH",
+  "description": "Facilities",
+  "source": "@site/docs/moh/other/facilities-moh.md",
+  "slug": "/moh/other/facilities-moh",
+  "permalink": "/wisn-user-manual/docs/moh/other/facilities-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/other/facilities-moh.md",
+  "version": "current"
+}

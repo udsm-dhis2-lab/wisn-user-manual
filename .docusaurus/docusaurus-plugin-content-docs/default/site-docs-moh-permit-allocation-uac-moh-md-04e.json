@@ -1,0 +1,21 @@
+{
+  "unversionedId": "moh/permit_allocation/uac-moh",
+  "id": "moh/permit_allocation/uac-moh",
+  "isDocsHomePage": false,
+  "title": "UAC MOH",
+  "description": "UAC",
+  "source": "@site/docs/moh/permit_allocation/uac-moh.md",
+  "slug": "/moh/permit_allocation/uac-moh",
+  "permalink": "/wisn-user-manual/docs/moh/permit_allocation/uac-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/permit_allocation/uac-moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Specialist PRI MOH",
+    "permalink": "/wisn-user-manual/docs/moh/permit_allocation/specialist-pri-moh"
+  },
+  "next": {
+    "title": "Home facility user",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/home/home-facility-user-moh"
+  }
+}

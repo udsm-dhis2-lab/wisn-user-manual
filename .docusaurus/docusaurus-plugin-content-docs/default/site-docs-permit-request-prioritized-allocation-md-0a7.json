@@ -1,0 +1,12 @@
+{
+  "unversionedId": "Permit Request/prioritized-allocation",
+  "id": "Permit Request/prioritized-allocation",
+  "isDocsHomePage": false,
+  "title": "Prioritized Allocation",
+  "description": "The system will display a new PRI list which takes into account the UAC permit requests. From the total budget, cost for UAC will be deducted and the remaining amount will be used to assign the permit request based on PRI.",
+  "source": "@site/docs/Permit Request/Prioritized_Allocation.md",
+  "slug": "/Permit Request/prioritized-allocation",
+  "permalink": "/wisn-user-manual/docs/Permit Request/prioritized-allocation",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Permit Request/Prioritized_Allocation.md",
+  "version": "current"
+}

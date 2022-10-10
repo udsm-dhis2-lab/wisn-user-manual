@@ -1,0 +1,17 @@
+{
+  "unversionedId": "facility_user_moh/permit_requests-moh-facillity/final-decision-moh",
+  "id": "facility_user_moh/permit_requests-moh-facillity/final-decision-moh",
+  "isDocsHomePage": false,
+  "title": "Final Decision",
+  "description": "Overview",
+  "source": "@site/docs/facility_user_moh/permit_requests-moh-facillity/final-decision-moh.md",
+  "slug": "/facility_user_moh/permit_requests-moh-facillity/final-decision-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/final-decision-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/permit_requests-moh-facillity/final-decision-moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User UAC",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-uac-moh"
+  }
+}

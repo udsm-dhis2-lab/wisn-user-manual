@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh",
+  "id": "facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh",
+  "isDocsHomePage": false,
+  "title": "User Automated PRI for Full Automated Cadres (FAC)",
+  "description": "Automated PRI for Full Automated Cadres (FAC)",
+  "source": "@site/docs/facility_user_moh/permit_requests-moh-facillity/user_pri_for_FAC_ceiling_moh.md",
+  "slug": "/facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-pri-for-fac-ceiling-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/permit_requests-moh-facillity/user_pri_for_FAC_ceiling_moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "user cadre ceiling",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-cadre-ceiling-moh"
+  },
+  "next": {
+    "title": "User Specilist PRI",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/user-specialist-pri-moh"
+  }
+}

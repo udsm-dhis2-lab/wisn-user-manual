@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user/user-uac",
+  "id": "facility_user/user-uac",
+  "isDocsHomePage": false,
+  "title": "User UAC",
+  "description": "USER ASSISTED CADRE (UAC)",
+  "source": "@site/docs/facility_user/user_uac.md",
+  "slug": "/facility_user/user-uac",
+  "permalink": "/wisn-user-manual/docs/facility_user/user-uac",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user/user_uac.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Specilist PRI",
+    "permalink": "/wisn-user-manual/docs/facility_user/user-specialist-pri"
+  },
+  "next": {
+    "title": "MOH home",
+    "permalink": "/wisn-user-manual/docs/moh/home/moh-home"
+  }
+}

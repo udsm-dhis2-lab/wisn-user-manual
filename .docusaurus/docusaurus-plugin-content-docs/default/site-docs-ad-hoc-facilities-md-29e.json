@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ad-hoc/facilities",
+  "id": "ad-hoc/facilities",
+  "isDocsHomePage": false,
+  "title": "Facilities",
+  "description": "On this stage,  procedures are just the same as ones in permit allocation module.On adding a new Facility. The facility should be the one created in the last 15 Months.New need to be Average of existing HRH by LG (National for Full operational District Hospitals and Partial operational District hospitals) for each new cadre belongs to that facility type .Also there is a need to update WISN Report so as to have new average need.And lastly tuser will be displayed with the PRI of the new facility based on new average need and its existing HRH.",
+  "source": "@site/docs/ad-hoc/facilities.md",
+  "slug": "/ad-hoc/facilities",
+  "permalink": "/wisn-user-manual/docs/ad-hoc/facilities",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/ad-hoc/facilities.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Approved Cadres",
+    "permalink": "/wisn-user-manual/docs/ad-hoc/approved-cadres"
+  },
+  "next": {
+    "title": "Initial Optimization",
+    "permalink": "/wisn-user-manual/docs/ad-hoc/initial-optimization"
+  }
+}

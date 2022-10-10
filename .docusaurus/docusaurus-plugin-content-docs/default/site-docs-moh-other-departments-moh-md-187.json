@@ -1,0 +1,12 @@
+{
+  "unversionedId": "moh/other/departments-moh",
+  "id": "moh/other/departments-moh",
+  "isDocsHomePage": false,
+  "title": "Departments",
+  "description": "Departments",
+  "source": "@site/docs/moh/other/departments-moh.md",
+  "slug": "/moh/other/departments-moh",
+  "permalink": "/wisn-user-manual/docs/moh/other/departments-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/other/departments-moh.md",
+  "version": "current"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "facility_user_moh/other-moh-facility/hmis-moh",
+  "id": "facility_user_moh/other-moh-facility/hmis-moh",
+  "isDocsHomePage": false,
+  "title": "HMIS Data MOH",
+  "description": "HMIS Data",
+  "source": "@site/docs/facility_user_moh/other-moh-facility/hmis-moh-facility.md",
+  "slug": "/facility_user_moh/other-moh-facility/hmis-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/other-moh-facility/hmis-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/other-moh-facility/hmis-moh-facility.md",
+  "version": "current"
+}

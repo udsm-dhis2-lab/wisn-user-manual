@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Analytics/analytics-moh",
+  "id": "Analytics/analytics-moh",
+  "isDocsHomePage": false,
+  "title": "Analytics",
+  "source": "@site/docs/Analytics/analytics_moh.md",
+  "slug": "/Analytics/analytics-moh",
+  "permalink": "/wisn-user-manual/docs/Analytics/analytics-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Analytics/analytics_moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Analytics",
+    "permalink": "/wisn-user-manual/docs/Analytics/analytics"
+  },
+  "next": {
+    "title": "Home Redistribution",
+    "permalink": "/wisn-user-manual/docs/Redistribution/home-redistribution"
+  }
+}

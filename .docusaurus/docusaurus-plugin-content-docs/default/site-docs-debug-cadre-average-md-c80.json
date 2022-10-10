@@ -1,0 +1,21 @@
+{
+  "unversionedId": "debug/cadre-average",
+  "id": "debug/cadre-average",
+  "isDocsHomePage": false,
+  "title": "Managing Cadre Average",
+  "description": "The cadre average section is designed to provide validation to the average numbers presented for new and upgraded facilities. The user is able to confirm if the average numbers are being shown correctly by also looking at the existing HRH data.",
+  "source": "@site/docs/debug/cadre-average.md",
+  "slug": "/debug/cadre-average",
+  "permalink": "/wisn-user-manual/docs/debug/cadre-average",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/debug/cadre-average.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Managing HMIS data",
+    "permalink": "/wisn-user-manual/docs/debug/hmis"
+  },
+  "next": {
+    "title": "User Management",
+    "permalink": "/wisn-user-manual/docs/users/users"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Redistribution/recommended-redistribution",
+  "id": "Redistribution/recommended-redistribution",
+  "isDocsHomePage": false,
+  "title": "Recommended Redistribution",
+  "description": "At this stage, the user is able to trigger the redistribution process which is an automatic one whereby the selected surplus cadres (either verified which is a default one or optimal) from the previous step are redistributed/allocated to a facility with deficit by considering the shortest geographical distance.",
+  "source": "@site/docs/Redistribution/Recommended-Redistribution.md",
+  "slug": "/Redistribution/recommended-redistribution",
+  "permalink": "/wisn-user-manual/docs/Redistribution/recommended-redistribution",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Redistribution/Recommended-Redistribution.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Verification",
+    "permalink": "/wisn-user-manual/docs/Redistribution/verification"
+  },
+  "next": {
+    "title": "Customization and Confirmation",
+    "permalink": "/wisn-user-manual/docs/Redistribution/customization-and-confirmation"
+  }
+}

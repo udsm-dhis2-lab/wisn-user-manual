@@ -1,0 +1,21 @@
+{
+  "unversionedId": "debug/wisn",
+  "id": "debug/wisn",
+  "isDocsHomePage": false,
+  "title": "Managing WISN Data",
+  "description": "This displays the WISN Summary for the whole year. It shows the HRH status for the whole country.",
+  "source": "@site/docs/debug/wisn.md",
+  "slug": "/debug/wisn",
+  "permalink": "/wisn-user-manual/docs/debug/wisn",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/debug/wisn.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Managing Cadres",
+    "permalink": "/wisn-user-manual/docs/system/cadre"
+  },
+  "next": {
+    "title": "Managing HRH Data",
+    "permalink": "/wisn-user-manual/docs/debug/hrh"
+  }
+}

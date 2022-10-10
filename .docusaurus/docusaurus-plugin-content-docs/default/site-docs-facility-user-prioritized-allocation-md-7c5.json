@@ -1,0 +1,12 @@
+{
+  "unversionedId": "facility_user/user-prioritized-allocation",
+  "id": "facility_user/user-prioritized-allocation",
+  "isDocsHomePage": false,
+  "title": "User Prioritized Allocation",
+  "description": "Prioritized Allocation",
+  "source": "@site/docs/facility_user/prioritized_allocation.md",
+  "slug": "/facility_user/user-prioritized-allocation",
+  "permalink": "/wisn-user-manual/docs/facility_user/user-prioritized-allocation",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user/prioritized_allocation.md",
+  "version": "current"
+}

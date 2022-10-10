@@ -1,0 +1,12 @@
+{
+  "unversionedId": "moh/other/hmis-moh",
+  "id": "moh/other/hmis-moh",
+  "isDocsHomePage": false,
+  "title": "HMIS Data MOH",
+  "description": "HMIS Data",
+  "source": "@site/docs/moh/other/hmis-moh.md",
+  "slug": "/moh/other/hmis-moh",
+  "permalink": "/wisn-user-manual/docs/moh/other/hmis-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/other/hmis-moh.md",
+  "version": "current"
+}

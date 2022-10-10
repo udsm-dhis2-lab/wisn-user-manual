@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Redistribution/customization-and-confirmation",
+  "id": "Redistribution/customization-and-confirmation",
+  "isDocsHomePage": false,
+  "title": "Customization and Confirmation",
+  "description": "On customization and confirmation User is able to view the final for the redistributed staff and make any customization or changes. This stage enable user with the ability to make either a manual change to any selection or apply any specific constraint which will impact the allocation",
+  "source": "@site/docs/Redistribution/Customization-Confirmation.md",
+  "slug": "/Redistribution/customization-and-confirmation",
+  "permalink": "/wisn-user-manual/docs/Redistribution/customization-and-confirmation",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Redistribution/Customization-Confirmation.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Recommended Redistribution",
+    "permalink": "/wisn-user-manual/docs/Redistribution/recommended-redistribution"
+  },
+  "next": {
+    "title": "LGA Redistribution Introduction",
+    "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-introduction"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "facility_user/user-permit-request-home",
+  "id": "facility_user/user-permit-request-home",
+  "isDocsHomePage": false,
+  "title": "User permit request home",
+  "description": "The permit request process will be used by the Facility user. The permit request process in the WISN+POA system refers to the annual permit request that is carried out by Facilities and therefore they are the only users in the system with access to this specific section. The Facility user will be able to see the ‘permit request’ function on the left-hand side of the system to begin the process. The permit request process guides the user through a 8-step process with key functionalities that assist the user throughout each step.",
+  "source": "@site/docs/facility_user/permit_home.md",
+  "slug": "/facility_user/user-permit-request-home",
+  "permalink": "/wisn-user-manual/docs/facility_user/user-permit-request-home",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user/permit_home.md",
+  "version": "current"
+}

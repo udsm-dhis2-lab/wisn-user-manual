@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Permit_Request/prioritized-allocation",
+  "id": "Permit_Request/prioritized-allocation",
+  "isDocsHomePage": false,
+  "title": "Prioritized Allocation",
+  "description": "The system will display a new PRI list which takes into account the UAC permit requests. From the total budget, cost for UAC will be deducted and the remaining amount will be used to assign the permit request based on PRI.",
+  "source": "@site/docs/Permit_Request/Prioritized_Allocation.md",
+  "slug": "/Permit_Request/prioritized-allocation",
+  "permalink": "/wisn-user-manual/docs/Permit_Request/prioritized-allocation",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Permit_Request/Prioritized_Allocation.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "PRI Optimization with Full Automated Cadres (FAC)",
+    "permalink": "/wisn-user-manual/docs/Permit_Request/pri-optimization-with-uac"
+  },
+  "next": {
+    "title": "Enter Budget Allocation",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/enter-budget-allocation-lga"
+  }
+}

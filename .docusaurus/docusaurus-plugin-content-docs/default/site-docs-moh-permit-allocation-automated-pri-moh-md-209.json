@@ -1,0 +1,21 @@
+{
+  "unversionedId": "moh/permit_allocation/automated-pri-moh",
+  "id": "moh/permit_allocation/automated-pri-moh",
+  "isDocsHomePage": false,
+  "title": "Automated PRI MOH",
+  "description": "Automated PRI MOH",
+  "source": "@site/docs/moh/permit_allocation/automated-pri-moh.md",
+  "slug": "/moh/permit_allocation/automated-pri-moh",
+  "permalink": "/wisn-user-manual/docs/moh/permit_allocation/automated-pri-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/permit_allocation/automated-pri-moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "MOH home",
+    "permalink": "/wisn-user-manual/docs/moh/home/moh-home"
+  },
+  "next": {
+    "title": "Available Permit MOH",
+    "permalink": "/wisn-user-manual/docs/moh/permit_allocation/available-permit-moh"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Permit_Request/enter-budget-allocation",
+  "id": "Permit_Request/enter-budget-allocation",
+  "isDocsHomePage": false,
+  "title": "Enter Budget Allocation",
+  "description": "In this part of the system, the LGA user will determine the overall budget that is to be used throughout the permit request process. The LGA user is expected to know the budget or approximate budget they would be allocated for that particular planning year.",
+  "source": "@site/docs/Permit_Request/Enter_Budget_Allocation.md",
+  "slug": "/Permit_Request/enter-budget-allocation",
+  "permalink": "/wisn-user-manual/docs/Permit_Request/enter-budget-allocation",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Permit_Request/Enter_Budget_Allocation.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "LGA Verification",
+    "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-verification"
+  },
+  "next": {
+    "title": "Cadre Ceiling",
+    "permalink": "/wisn-user-manual/docs/Permit_Request/cadre-ceiling"
+  }
+}

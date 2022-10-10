@@ -1,0 +1,21 @@
+{
+  "unversionedId": "facility_user_moh/home/home-facility-user-moh",
+  "id": "facility_user_moh/home/home-facility-user-moh",
+  "isDocsHomePage": false,
+  "title": "Home facility user",
+  "description": "All users must log into the system using their username and password. Access cannot be gained to the system without having a verified account and entering the correct login details, which are stored on the WISN + POA database. The system requires users to have internet access as the system is currently stored in the DHIS2 software. Once the user has entered the URL below, they will be directed to the login page pictured in Figure 0.",
+  "source": "@site/docs/facility_user_moh/home/home_facility_user_moh.md",
+  "slug": "/facility_user_moh/home/home-facility-user-moh",
+  "permalink": "/wisn-user-manual/docs/facility_user_moh/home/home-facility-user-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/facility_user_moh/home/home_facility_user_moh.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "UAC MOH",
+    "permalink": "/wisn-user-manual/docs/moh/permit_allocation/uac-moh"
+  },
+  "next": {
+    "title": "User permit request home",
+    "permalink": "/wisn-user-manual/docs/facility_user_moh/permit_requests-moh-facillity/permit-request-home"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "users/user-account",
+  "id": "users/user-account",
+  "isDocsHomePage": false,
+  "title": "User Account",
+  "description": "User Password",
+  "source": "@site/docs/users/user-account.md",
+  "slug": "/users/user-account",
+  "permalink": "/wisn-user-manual/docs/users/user-account",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/users/user-account.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Management",
+    "permalink": "/wisn-user-manual/docs/users/users"
+  },
+  "next": {
+    "title": "Analytics",
+    "permalink": "/wisn-user-manual/docs/Analytics/analytics"
+  }
+}

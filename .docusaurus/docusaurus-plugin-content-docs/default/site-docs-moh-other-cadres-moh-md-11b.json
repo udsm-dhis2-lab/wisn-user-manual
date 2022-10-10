@@ -1,0 +1,12 @@
+{
+  "unversionedId": "moh/other/cadres-moh",
+  "id": "moh/other/cadres-moh",
+  "isDocsHomePage": false,
+  "title": "cadres MOH",
+  "description": "Cadres",
+  "source": "@site/docs/moh/other/cadres-moh.md",
+  "slug": "/moh/other/cadres-moh",
+  "permalink": "/wisn-user-manual/docs/moh/other/cadres-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/other/cadres-moh.md",
+  "version": "current"
+}

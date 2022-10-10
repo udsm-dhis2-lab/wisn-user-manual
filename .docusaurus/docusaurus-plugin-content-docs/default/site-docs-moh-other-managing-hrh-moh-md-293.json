@@ -1,0 +1,12 @@
+{
+  "unversionedId": "moh/other/managing-hrh-moh",
+  "id": "moh/other/managing-hrh-moh",
+  "isDocsHomePage": false,
+  "title": "Managing HRH Data MOH",
+  "description": "Managing HRH Data",
+  "source": "@site/docs/moh/other/managing-hrh-moh.md",
+  "slug": "/moh/other/managing-hrh-moh",
+  "permalink": "/wisn-user-manual/docs/moh/other/managing-hrh-moh",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/moh/other/managing-hrh-moh.md",
+  "version": "current"
+}

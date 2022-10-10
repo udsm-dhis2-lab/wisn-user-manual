@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Redistribution/lga-redistribution-home",
+  "id": "LGA_Redistribution/lga-redistribution-home",
+  "isDocsHomePage": false,
+  "title": "LGA Redistribution Home",
+  "description": "This acts as the starting page for the Redistribution Process for the User. LGA users need to select either to start a new process or resume a current process. The system enables the user to be able to view previous/past redistribution carried out.",
+  "source": "@site/docs/LGA_Redistribution/LGA_Redistribution_Home.md",
+  "slug": "/LGA_Redistribution/lga-redistribution-home",
+  "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-home",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Redistribution/LGA_Redistribution_Home.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "LGA Redistribution Introduction",
+    "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-introduction"
+  },
+  "next": {
+    "title": "Surplus Identification",
+    "permalink": "/wisn-user-manual/docs/LGA_Redistribution/surplus-identification"
+  }
+}

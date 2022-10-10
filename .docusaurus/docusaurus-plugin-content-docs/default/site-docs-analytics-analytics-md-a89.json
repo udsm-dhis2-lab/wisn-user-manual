@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Analytics/analytics",
+  "id": "Analytics/analytics",
+  "isDocsHomePage": false,
+  "title": "Analytics",
+  "description": "The aim of the analytics module for the system is to have an interactive dashboard that is a separate independent module for the user to explore/manage the data and discover/share insights into the Human Resource for Health within Tanzania.",
+  "source": "@site/docs/Analytics/Analytics.md",
+  "slug": "/Analytics/analytics",
+  "permalink": "/wisn-user-manual/docs/Analytics/analytics",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Analytics/Analytics.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Account",
+    "permalink": "/wisn-user-manual/docs/users/user-account"
+  },
+  "next": {
+    "title": "Analytics",
+    "permalink": "/wisn-user-manual/docs/Analytics/analytics-moh"
+  }
+}

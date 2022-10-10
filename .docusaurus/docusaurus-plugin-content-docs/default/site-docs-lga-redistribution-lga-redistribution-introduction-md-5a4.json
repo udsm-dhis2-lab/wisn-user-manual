@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Redistribution/lga-redistribution-introduction",
+  "id": "LGA_Redistribution/lga-redistribution-introduction",
+  "isDocsHomePage": false,
+  "title": "LGA Redistribution Introduction",
+  "description": "The aim of the Redistribution section is to support the LGA user in the process of reallocating Healthcare Workers from a facility where surplus has been identified to another facility where there is a need and deficit. The redistribution involves five stages to complete the process",
+  "source": "@site/docs/LGA_Redistribution/LGA_redistribution_introduction.md",
+  "slug": "/LGA_Redistribution/lga-redistribution-introduction",
+  "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-introduction",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Redistribution/LGA_redistribution_introduction.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Customization and Confirmation",
+    "permalink": "/wisn-user-manual/docs/Redistribution/customization-and-confirmation"
+  },
+  "next": {
+    "title": "LGA Redistribution Home",
+    "permalink": "/wisn-user-manual/docs/LGA_Redistribution/lga-redistribution-home"
+  }
+}

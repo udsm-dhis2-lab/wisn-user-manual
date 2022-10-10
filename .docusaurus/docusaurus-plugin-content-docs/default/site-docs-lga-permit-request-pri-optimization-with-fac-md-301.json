@@ -1,0 +1,21 @@
+{
+  "unversionedId": "LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres",
+  "id": "LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres",
+  "isDocsHomePage": false,
+  "title": "LGA PRI Optimization with Full Automated Cadres (FAC)",
+  "description": "The initial optimization process allows the LGA users to apply for permit allocation to all fully automated cadres as per the PRI. The selected cadres for allocation will be determined by the PRI, budget and supply constraints.",
+  "source": "@site/docs/LGA_Permit_Request/PRI_Optimization_with_FAC.md",
+  "slug": "/LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres",
+  "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-pri-optimization-with-full-automated-cadres",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/LGA_Permit_Request/PRI_Optimization_with_FAC.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "LGA New & Upgraded_Facility",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-new-upgraded-facility"
+  },
+  "next": {
+    "title": "LGA User Assisted Cadre (UAC)",
+    "permalink": "/wisn-user-manual/docs/LGA_Permit_Request/lga-user-assisted-cadre"
+  }
+}

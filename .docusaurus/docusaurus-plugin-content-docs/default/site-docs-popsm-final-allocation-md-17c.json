@@ -1,0 +1,21 @@
+{
+  "unversionedId": "popsm/final-allocation",
+  "id": "popsm/final-allocation",
+  "isDocsHomePage": false,
+  "title": "Final Allocation",
+  "description": "The system will display a summary of FAC and UAC allocation permits as per LGA. And it is in this process users can  apply constraints which affect previously allocated FAC permits in specific LGA or even national ones .",
+  "source": "@site/docs/popsm/final-allocation.md",
+  "slug": "/popsm/final-allocation",
+  "permalink": "/wisn-user-manual/docs/popsm/final-allocation",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/popsm/final-allocation.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Assisted Cadre (UAC)",
+    "permalink": "/wisn-user-manual/docs/popsm/user-assisted-cadre"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/wisn-user-manual/docs/ad-hoc/ad-hoc"
+  }
+}

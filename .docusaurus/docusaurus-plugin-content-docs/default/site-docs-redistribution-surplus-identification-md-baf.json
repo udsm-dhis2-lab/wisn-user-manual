@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Redistribution/surplus-identification",
+  "id": "Redistribution/surplus-identification",
+  "isDocsHomePage": false,
+  "title": "Surplus Identification",
+  "description": "The aim of this section is for the National,Regional and LGA User to be able to identify the Facility Level Surplus, Facility level Shortage and the net number for each cadre.",
+  "source": "@site/docs/Redistribution/Surplus-Identification.md",
+  "slug": "/Redistribution/surplus-identification",
+  "permalink": "/wisn-user-manual/docs/Redistribution/surplus-identification",
+  "editUrl": "https://github.com/udsm-dhis2-project/wisn-user-manual/edit/main/docs/Redistribution/Surplus-Identification.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Redistribution Introduction",
+    "permalink": "/wisn-user-manual/docs/Redistribution/redistribution-introduction"
+  },
+  "next": {
+    "title": "Verification",
+    "permalink": "/wisn-user-manual/docs/Redistribution/verification"
+  }
+}
