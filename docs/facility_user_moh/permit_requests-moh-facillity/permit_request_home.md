@@ -9,7 +9,7 @@ The permit request process will be used by the Facility user. The permit request
 
 At the start of the permit request process, the system directs the user to initiate the process or to resume if there is a pending process initiated before.
 
-![img alt](permit-moh-home.png)
+![img alt](/img/permit-moh-home.png)
 
 Figure 6: Permit Request Start/Resume Page
 

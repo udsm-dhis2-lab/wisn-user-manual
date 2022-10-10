@@ -29,7 +29,7 @@ On the landing page, when a user selects a specific facility, they will only be 
 
 Finally, the user is also able to download data shown on the home page. The user can download the graph in PNG format and the data from the table in XLS or CSV file.
 
-![img alt](/img/user_home5.png)
+![img alt](/img/user_home.png)
 Figure 3: Options for downloading the selected data for analysis purposes
 
 Once the user has selected the download function, they will be provided with the option to download in either CSV or XLS format (see Figure 3). The user is also given the option at this stage to download the graph by selecting the option ‘include graphs.’ The files are then downloaded onto the computer as per the figure below. Downloaded pictures and excel documents will appear as in Figures 4 and 5, respectively.

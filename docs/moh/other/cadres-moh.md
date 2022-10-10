@@ -7,6 +7,6 @@ title: cadres MOH
 
 The full list of all cadres that exist in the system is located under the “System Setup” section.
 
- ![img alt](/img/cadres-moh1.png)
+![img alt](/img/cadre-moh1.png)
 
-  Figure 1: List of cadres added in the system
+Figure 1: List of cadres added in the system

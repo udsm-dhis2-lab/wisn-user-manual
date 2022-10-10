@@ -9,16 +9,16 @@ The permit request process will be used by the Facility user. The permit request
 
 At the start of the permit request process, the system directs the user to initiate the process or to resume if there is a pending process initiated before.
 
-![img alt](/img/permit_home.png)
+![img alt](/img/permit-moh.png)
 
 Figure 6: Permit Request Start/Resume Page
 
 On the same page users can view previous conducted permit requests and if none there will be a statement, no completed permits. From the summary table of previous requests, users can view the specific report in detail by clicking the report eye button on the action column.
 
-![img alt](/img/permit_home2.png)
+![img alt](/img/permit-moh.png)
 Figure 7: Previous Permit Requests
 
 Users are able to download previous reports as well.
 
-![img alt](/img/permit_home3.png)
+![img alt](/img/permit-moh.png)
 Figure 8: Viewing Permit Request Report
