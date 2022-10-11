@@ -132,6 +132,9 @@ module.exports = {
           'moh/permit_allocation/permit-allocation-moh-home',
           'moh/permit_allocation/specialist-pri-moh',
           'moh/permit_allocation/uac-moh',
+          'moh/analytics-moh-central/PRI-analysis',
+          'moh/analytics-moh-central/data-overview',
+          'moh/analytics-moh-central/key-metrics',
         ],
       },
       {
@@ -147,6 +150,8 @@ module.exports = {
           'facility_user_moh/permit_requests-moh-facillity/user-non-specialist-pri-moh',
           'facility_user_moh/permit_requests-moh-facillity/user-uac-moh',
           'facility_user_moh/permit_requests-moh-facillity/final-decision-moh',
+          'facility_user_moh/analytics-moh-central/PRI-analysis',
+          'facility_user_moh/analytics-moh-central/data-overview',
         ],
       },
     ],

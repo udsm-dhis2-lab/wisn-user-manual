@@ -3,17 +3,15 @@ id: facilities-moh
 title: Facilities MOH
 ---
 
-# Facilities
+## Facilities
 
  ![img alt](/img/facilities-moh.png)
 
    Figure 1 :List of All Facilities
 
-
  ![img alt](/img/facilities-moh2.png)
 
   Figure 2: Filtering facility by type
-
 
  ![img alt](/img/facilities-moh3.png)
 
