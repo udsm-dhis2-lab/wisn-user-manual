@@ -12,4 +12,3 @@ This will display the PRI for the facility in the graph.This can be viewed into 
 ![img alt](/img/moh-analytics-facility.png)
 
     Figure 2 : Showing PRI Analysis with option to select graph view and table
-
