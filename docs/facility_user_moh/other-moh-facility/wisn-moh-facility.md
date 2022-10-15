@@ -1,5 +1,5 @@
 ---
-id: wisn-moh
+id: wisn-moh-facility
 title: Wisn Data MOH
 ---
 

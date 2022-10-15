@@ -1,5 +1,5 @@
 ---
-id: hmis-moh
+id: hmis-moh-facility
 title: HMIS Data MOH
 ---
 

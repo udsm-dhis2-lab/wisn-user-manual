@@ -1,5 +1,5 @@
 ---
-id: managing-hrh-moh
+id: managing-hrh-moh-facility
 title: Managing HRH Data MOH
 ---
 

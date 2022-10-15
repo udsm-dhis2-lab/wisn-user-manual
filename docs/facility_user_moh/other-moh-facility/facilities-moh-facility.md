@@ -1,5 +1,5 @@
 ---
-id: facilities-moh
+id: facilities-moh-facility
 title: Facilities MOH
 ---
 
